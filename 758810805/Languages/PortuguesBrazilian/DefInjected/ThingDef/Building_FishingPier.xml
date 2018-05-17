@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<FishingPierSpawner.label>Cais de Pesca</FishingPierSpawner.label>
+	<FishingPierSpawner.description>Uma doca de pesca simples, mas sólida. Não vamos molhar os pés quando estiver pescando.</FishingPierSpawner.description>
+	<FishingPierSpawner_Blueprint.label>Cais de Pesca (Blueprint)</FishingPierSpawner_Blueprint.label>
+	<FishingPierSpawner_Frame.label>Terminal de pesca (em construção)</FishingPierSpawner_Frame.label>
+	<FishingPierSpawner_Frame.description>Uma doca de pesca simples, mas sólida. Não vamos molhar os pés quando estiver pescando.</FishingPierSpawner_Frame.description>
+
+	<FishingPierSpawnerOnMud.label>Terminal de Pesca (Floodland)</FishingPierSpawnerOnMud.label>
+	<FishingPierSpawnerOnMud.description>Uma doca de pesca simples, mas sólida. Não vamos molhar os pés quando estiver pescando. Pode ser construído sobre lama, mas requer mais tempo e materiais de construção.</FishingPierSpawnerOnMud.description>
+	<FishingPierSpawnerOnMud_Blueprint.label>cais de pesca (lama) (plano)</FishingPierSpawnerOnMud_Blueprint.label>
+	<FishingPierSpawnerOnMud_Frame.label>cais de pesca (lama) (construção)</FishingPierSpawnerOnMud_Frame.label>
+	<FishingPierSpawnerOnMud_Frame.description>Uma doca de pesca simples, mas sólida. Não vamos molhar os pés quando estiver pescando. Pode ser construído sobre lama, mas requer mais tempo e materiais de construção.</FishingPierSpawnerOnMud_Frame.description>
+
+	<FishingPier.label>Cais de Pesca</FishingPier.label>
+	<FishingPier.description>Uma doca de pesca simples, mas sólida. Não vamos molhar os pés quando estiver pescando.</FishingPier.description>
+
+</LanguageData>

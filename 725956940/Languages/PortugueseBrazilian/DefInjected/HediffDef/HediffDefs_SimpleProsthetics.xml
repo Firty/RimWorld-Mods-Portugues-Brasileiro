@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SimpleProstheticHand.label>Mão de Prótese Simples</SimpleProstheticHand.label>
+
+	<SimpleProstheticFoot.label>Pé de Prótese Simples</SimpleProstheticFoot.label>
+
+	<ArtificialNose.label>Nariz Artificial</ArtificialNose.label>
+
+	<HydraulicJaw.label>Mandibula Hidraulica</HydraulicJaw.label>
+
+	<ArtificialPelvis.label>Bacia Artificial</ArtificialPelvis.label>
+
+	<GoldenEye.label>Olho de Ouro</GoldenEye.label>
+
+	<SimpleProstheticHand.comps.0.tools.0.label>bionic fist</SimpleProstheticHand.comps.0.tools.0.label>
+
+</LanguageData>

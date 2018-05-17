@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ZopeHigh.stages.0.label>zope (baixo)</ZopeHigh.stages.0.label>
+
+	<ZopeHigh.stages.0.description>O efeito do Zope está acabando. Eu me sinto bem.</ZopeHigh.stages.0.description>
+
+	<ZopeHigh.stages.1.label>zope (alto)</ZopeHigh.stages.1.label>
+
+	<ZopeHigh.stages.1.description>Ooooh isso é demais!</ZopeHigh.stages.1.description>
+
+	<ZopioidWithdrawal.stages.1.label>Zopioid (abstinencia)</ZopioidWithdrawal.stages.1.label>
+
+	<ZopioidWithdrawal.stages.1.description>Eu preciso de ajuda! Tudo dói e eu sinto náuseas.</ZopioidWithdrawal.stages.1.description>
+
+</LanguageData>

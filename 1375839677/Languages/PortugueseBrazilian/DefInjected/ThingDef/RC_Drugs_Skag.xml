@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Skag.label>skag</Skag.label>
+
+	<Skag.description>Um Zopioid refinado e condensado baseado no Zope. Este material é muito mais poderoso e vai derrubar quem o injeta por algumas horas com uma alta euforia. A sobredosagem é bastante fácil e há vários efeitos secundários; No entanto, muitos dos viciados tendem a não se importar com a alta que se torna cada vez mais difícil de obter..</Skag.description>
+
+	<Skag.ingestible.ingestcommandstring>Injetar {0}</Skag.ingestible.ingestcommandstring>
+
+	<Skag.ingestible.ingestreportstring>Injetando {0}.</Skag.ingestible.ingestreportstring>
+
+</LanguageData>

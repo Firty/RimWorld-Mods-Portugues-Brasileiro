@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClearBlockage.label>Limpar Blockage</ClearBlockage.label>
+  <ClearBlockage.verb>Limpar</ClearBlockage.verb>
+  <ClearBlockage.gerund>Limpando</ClearBlockage.gerund>
+
+  <washPatient.label>Dar banho no paciente</washPatient.label>
+  <washPatient.verb>Dar banho</washPatient.verb>
+  <washPatient.gerund>Dando banho</washPatient.gerund>
+
+  <cleanBedpan.label>Colcha Limpa</cleanBedpan.label>
+  <cleanBedpan.verb>limpa</cleanBedpan.verb>
+  <cleanBedpan.gerund>limpando</cleanBedpan.gerund>
+
+  <DocCleanBedpan.label>Colcha Limpa</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>limpa</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>limpando</DocCleanBedpan.gerund>
+
+
+</LanguageData>

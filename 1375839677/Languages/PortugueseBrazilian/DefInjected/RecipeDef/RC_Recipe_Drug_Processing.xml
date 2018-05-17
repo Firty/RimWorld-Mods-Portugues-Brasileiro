@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ProcessHealroot.label>fazer ervas medicinais</ProcessHealroot.label>
+
+	<ProcessHealroot.description>Extrair misturas medicinais de ervas, caules e raízes.</ProcessHealroot.description>
+
+	<ProcessHealroot.jobstring>Fazendo ervas medicinais.</ProcessHealroot.jobstring>
+
+	<ProcessHealrootBulk.label>fazer ervas medicinais a granel</ProcessHealrootBulk.label>
+
+	<ProcessHealrootBulk.description>Extrair misturas medicinais de ervas, caules e raízes. Faz 5x!</ProcessHealrootBulk.description>
+
+	<ProcessHealrootBulk.jobstring>Fazendo ervas medicinais.</ProcessHealrootBulk.jobstring>
+
+</LanguageData>

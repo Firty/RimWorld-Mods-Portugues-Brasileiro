@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<PlantCoffee.label> planta de café </PlantCoffee.label>
+
+<PlantCoffee.description> Café! </PlantCoffee.description>
+
+<PlantSugarcane.label> planta de cana </PlantSugarcane.label>
+
+<PlantSugarcane.description> Esta grama alta tem perseguidos que, quando processados, criam um delicioso açúcar para estragar os dentes. </PlantSugarcane.description>
+
+<PlantOnion.label> onion plant </PlantOnion.label>
+
+<PlantOnion.description> Vem em grandes bulbos peludos brancos na sujeira. Os bulbos têm um odor pungente para eles, mas a carne, que descasca em camadas, é deliciosa quando cozida. Embora amei o aro das tribos para os habitantes do espaço, eles tendem a causar mau hálito e horrível odor corporal em quem os come. </PlantOnion.description>
+
+<PlantChickpeas.label> planta de grão de bico </PlantChickpeas.label>
+
+<PlantChickpeas.description> Uma planta de grão de bico. </PlantChickpeas.description>
+
+<PlantTomato.label> planta de tomate </PlantTomato.label>
+
+<PlantTomato.description> Esta lâmpada vermelha brilhante é o fruto de uma variedade mortal de plantas venenosas. A fruta em si não é venenosa, felizmente, e é realmente muito deliciosa, especialmente quando cozida em um molho ou feita em ketchup. Apesar de ser uma fruta, a Toma Mato é classificada como vegetal pelos chefs. Eles não sabem nada melhor. </PlantTomato.description>
+
+<PlantDreamflower.label> dreamflower plant </PlantDreamflower.label>
+
+<PlantDreamflower.description> Uma planta útil para suas propriedades ornamentais - mas mais importante, usada na produção de uma variedade de drogas e medicamentos. </PlantDreamflower.description>
+</LanguageData>

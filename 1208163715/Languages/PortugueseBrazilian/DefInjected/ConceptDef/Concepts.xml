@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<QRY_ReclaimingSoil.label>Recuperar solo</QRY_ReclaimingSoil.label>
+
+	<QRY_ReclaimingSoil.helptext>Quando a pedreira for desconstruída, você pode usar essa ferramenta para restaurar o solo, transformando em terra utilizavel.</QRY_ReclaimingSoil.helptext>
+
+</LanguageData>

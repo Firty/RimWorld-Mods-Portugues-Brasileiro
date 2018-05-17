@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TacticalCorneaImplant.label>implante de córnea tático</TacticalCorneaImplant.label>
+
+	<FarmerCore.label>IA auxiliar (agrícola)</FarmerCore.label>
+
+	<ConstructorCore.label>IA auxiliar (construção)</ConstructorCore.label>
+
+	<DoctorCore.label>IA auxiliar (médica)</DoctorCore.label>
+
+	<DiplomatCore.label>IA auxiliar (diplomática)</DiplomatCore.label>
+
+	<MinerCore.label>IA auxiliar (mineração)</MinerCore.label>
+
+</LanguageData>

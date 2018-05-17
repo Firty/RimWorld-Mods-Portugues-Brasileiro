@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<QRY_CellsMined.label>m³ minerado da pedreira</QRY_CellsMined.label>
+	<QRY_CellsMined.description>O numero em metros cubicos que foi minerado da pedreira.</QRY_CellsMined.description>
+
+</LanguageData>

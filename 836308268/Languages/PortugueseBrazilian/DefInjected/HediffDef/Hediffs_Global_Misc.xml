@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BadHygiene.label>Má higiene</BadHygiene.label>
+  <BadHygiene.stages.0.label>mau cheiro</BadHygiene.stages.0.label>
+  <BadHygiene.stages.1.label>fedendo</BadHygiene.stages.1.label>
+
+  <Dysentery.label>Disenteria</Dysentery.label>
+  <Dysentery.stages.0.label>pequena</Dysentery.stages.0.label>
+  <Dysentery.stages.1.label>média</Dysentery.stages.1.label>
+  <Dysentery.stages.2.label>alta</Dysentery.stages.2.label>
+  <Dysentery.stages.3.label>extrema</Dysentery.stages.3.label>
+
+  <Cholera.label>cólera</Cholera.label>
+  <Cholera.stages.0.label>pequena</Cholera.stages.0.label>
+  <Cholera.stages.1.label>média</Cholera.stages.1.label>
+  <Cholera.stages.2.label>alta</Cholera.stages.2.label>
+  <Cholera.stages.3.label>extrema</Cholera.stages.3.label>
+
+</LanguageData>

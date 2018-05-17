@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BridgeWaterDeep.label>Águas profundas</BridgeWaterDeep.label>
+
+	<BridgeWaterOceanDeep.label>Oceano profundo</BridgeWaterOceanDeep.label>
+
+	<BridgeWaterMovingDeep.label>Rio Profundo</BridgeWaterMovingDeep.label>
+
+	<BridgeWaterShallow.label>Águas rasas</BridgeWaterShallow.label>
+
+	<BridgeWaterOceanShallow.label>Oceano raso</BridgeWaterOceanShallow.label>
+
+	<BridgeWaterMovingShallow.label>Rio raso</BridgeWaterMovingShallow.label>
+
+	<BridgeMarsh.label>Pântano</BridgeMarsh.label>
+
+	<BridgeMud.label>Lama</BridgeMud.label>
+
+	<StoneBridgeWaterDeep.label>Águas profundas</StoneBridgeWaterDeep.label>
+
+	<StoneBridgeWaterOceanDeep.label>Oceano profundo</StoneBridgeWaterOceanDeep.label>
+
+	<StoneBridgeWaterMovingDeep.label>Rio Profundo</StoneBridgeWaterMovingDeep.label>
+
+	<StoneBridgeWaterShallow.label>Águas rasas</StoneBridgeWaterShallow.label>
+
+	<StoneBridgeWaterOceanShallow.label>Oceano raso</StoneBridgeWaterOceanShallow.label>
+
+	<StoneBridgeWaterMovingShallow.label>Rio raso</StoneBridgeWaterMovingShallow.label>
+
+	<StoneBridgeMarsh.label>Pântano</StoneBridgeMarsh.label>
+
+	<StoneBridgeMud.label>Lama</StoneBridgeMud.label>
+
+	<BridgeSand.label>Areia (em baixo da calçada)</BridgeSand.label>
+
+	<BridgeMarshyTerrain.label>Solo pantanoso (em baixo da calçada)</BridgeMarshyTerrain.label>
+
+	<BridgeIce.label>Gelo (em baixo da calçada)</BridgeIce.label>
+
+	<BridgeLand.label>Chão (em baixo da calçada)</BridgeLand.label>
+
+	<StoneBridgeSand.label>Areia (em baixo da calçada)</StoneBridgeSand.label>
+
+	<StoneBridgeMarshyTerrain.label>Solo pantanoso (em baixo da calçada)</StoneBridgeMarshyTerrain.label>
+
+	<StoneBridgeIce.label>Gelo (em baixo da calçada)</StoneBridgeIce.label>
+
+	<StoneBridgeLand.label>Chão (em baixo da calçada)</StoneBridgeLand.label>
+
+	<BridgeTKKN_SpringsWater.label>Água de nascente (em baixo da ponte)</BridgeTKKN_SpringsWater.label>
+
+	<StoneBridgeTKKN_SpringsWater.label>Água de nascente (em baixo da ponte)</StoneBridgeTKKN_SpringsWater.label>
+
+	<BridgeTKKN_SaltField.label>Campo de sal (em baixo da calçada)</BridgeTKKN_SaltField.label>
+
+	<StoneBridgeTKKN_SaltField.label>Campo de sal (em baixo da calçada)</StoneBridgeTKKN_SaltField.label>
+
+</LanguageData>

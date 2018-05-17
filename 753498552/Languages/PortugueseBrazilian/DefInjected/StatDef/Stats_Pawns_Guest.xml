@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RecruitRelationshipDamage.label>deterioração das relações durante o recrutamento</RecruitRelationshipDamage.label>
+
+	<RecruitRelationshipDamage.description>Danos às relações com a facção desta pessoa, com recrutamento bem sucedido.</RecruitRelationshipDamage.description>
+
+	<RecruitEffectivity.label>recrutar fator de efetividade</RecruitEffectivity.label>
+
+	<RecruitEffectivity.description>A eficácia ao tentar atrair os visitantes para se juntarem à sua facção.</RecruitEffectivity.description>
+
+</LanguageData>

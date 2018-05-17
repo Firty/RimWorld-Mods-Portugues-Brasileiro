@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ManhunterCore.label>AI takeover</ManhunterCore.label>
+
+	<ManhunterCore.beginletterlabel>AI takeover</ManhunterCore.beginletterlabel>
+
+	<ManhunterCore.beginletter>{0}'s AI persona core has assumed direct control!</ManhunterCore.beginletter>
+
+	<ManhunterCore.recoverymessage>{0}'s AI persona core has been contained.</ManhunterCore.recoverymessage>
+
+	<ManhunterCore.baseinspectline>Maddened: Manhunter</ManhunterCore.baseinspectline>
+
+	<WanderConfusedCore.label>confused wandering</WanderConfusedCore.label>
+
+	<WanderConfusedCore.beginletterlabel>confusion</WanderConfusedCore.beginletterlabel>
+
+	<WanderConfusedCore.beginletter>{0}'s mind is being flooded with terrible pictures and sounds by the AI persona core.</WanderConfusedCore.beginletter>
+
+	<WanderConfusedCore.recoverymessage>{0}'s AI persona core has been contained.</WanderConfusedCore.recoverymessage>
+
+	<WanderConfusedCore.baseinspectline>Mental state: Confused and wandering</WanderConfusedCore.baseinspectline>
+
+</LanguageData>

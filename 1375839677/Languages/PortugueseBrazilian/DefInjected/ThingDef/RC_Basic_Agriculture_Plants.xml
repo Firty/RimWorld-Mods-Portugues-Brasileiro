@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantOats.label>planta de aveia</PlantOats.label>
+
+	<PlantOats.description>Um cereal resistente comido tanto por humanos quanto por gado, a aveia cresce bem em uma variedade de solos e produz uma safra deliciosa e rica em nutrientes.</PlantOats.description>
+
+	<PlantWheat.label>planta de trigo</PlantWheat.label>
+
+	<PlantWheat.description>Uma cultura amplamente cultivada e útil para alimentar as massas. Não comestível por conta própria, e deve ser moído em farinha para ser comestível; Cresce melhor em bom solo.</PlantWheat.description>
+
+	<PlantBarley.label>Planta de cevada</PlantBarley.label>
+
+	<PlantBarley.description>Uma grama curta, porém resistente, que cresce quase igualmente bem no cascalho, já que cultiva solo fértil.</PlantBarley.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+<Recruiter.label>para recrutar hóspedes e prisioneiros</Recruiter.label>
+<Recruiter.verb>recrutar</Recruiter.verb>
+<Recruiter.gerund>recrutar</Recruiter.gerund>
+<Diplomat.label>entreter os convidados</Diplomat.label>
+<Diplomat.verb>entreter</Diplomat.verb>
+<Diplomat.gerund>divertimento</Diplomat.gerund>
+
+</LanguageData>

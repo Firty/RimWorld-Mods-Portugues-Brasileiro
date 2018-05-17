@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<DriedMeat.label>carne seca</DriedMeat.label>
+
+<DriedMeat.description>Pedaços de carne que foram cortados da maioria, se não de todos, da gordura e secaram perto de um fogo ou de um fogão. A carne seca viaja bem e dura um pouco mais do que a carne crua. Favorecido por tribais e caravanas. Pode ser comido por si só, sem problema, mas é frequentemente usado em receitas de culinária, especialmente ensopados, para amolecer.</DriedMeat.description>
+
+<PickledVegetables.label>legumes em conserva</PickledVegetables.label>
+
+<PickledVegetables.description>Legumes que foram embalados em um frasco ou podem com uma solução salgada ou vinagre. Favorecido por aqueles com gosto de vinagre, eles também são usados ​​na culinária e duram muito tempo.</PickledVegetables.description>
+
+<FruitPreserves.label>conservas de frutas</FruitPreserves.label>
+
+<FruitPreserves.description>Frutas que foram processadas e embaladas com muito açúcar em uma lata ou pote. As enormes quantidades de açúcar ajudam a preservar a fruta por um bom tempo. Saboroso cru, mas frequentemente usado na culinária.</FruitPreserves.description>
+
+<DriedFruit.label>fruta seca</DriedFruit.label>
+
+<DriedFruit.description>Frutas que foram secas, muitas vezes perto de um fogo, ao sol ou em um forno. Com a sua umidade, eles duram um pouco mais e viajam bem. Favorecido por caravnesers e tribals igualmente. Pode ser usado em receitas culinárias.</DriedFruit.description>
+
+<CannedFruit.label>Fruta enlatada</CannedFruit.label>
+
+<CannedFruit.description>Frutos processados ​​e às vezes variados embalados em uma lata de metal junto com seus sucos para serem consumidos em uma data posterior. Viaja bem e dura muito tempo. Pode ser usado em receitas normais de culinária também!</CannedFruit.description>
+
+<CannedVegetables.label>vegetais enlatados</CannedVegetables.label>
+
+<CannedVegetables.description>Vegetais processados, salgados e muitas vezes variados embalados em uma lata de metal para serem consumidos em uma data posterior. Viaja bem e dura muito tempo. Pode ser usado em receitas normais de culinária também!</CannedVegetables.description>
+
+<CannedMeat.label>carne enlatada</CannedMeat.label>
+
+<CannedMeat.description>Pedaço de carne processado, salgado e comprimido empurrado em uma lata de metal para ser consumido em uma data posterior. Viaja bem e dura muito tempo. Pode ser usado em receitas normais de culinária também!</CannedMeat.description>
+
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalTab>Medical Tab</MedicalTab>
+
+  <!-- sources -->
+  <Colonists>Colonos</Colonists>
+  <Animals>Animais</Animals>
+  <Prisoners>Prisioneiros</Prisoners>
+  <Visitors>Visitantes</Visitors>
+  <Hostiles>Enimigos</Hostiles>
+
+  <!-- x-click -->
+  <MedicalTab.Shift>shift</MedicalTab.Shift>
+  <MedicalTab.Alt>alt</MedicalTab.Alt>
+  <MedicalTab.Ctrl>ctrl</MedicalTab.Ctrl>
+  <MedicalTab.Left>esquerdo</MedicalTab.Left>
+  <MedicalTab.Right>direito</MedicalTab.Right>
+
+  <MedicalTab.XClickToY>{0} click: {1}</MedicalTab.XClickToY>
+
+  <!-- medical care -->
+  <MedicalTab.MassAssignMedicalCare>definir assistencia media a todos</MedicalTab.MassAssignMedicalCare>
+  <MedicalTab.SetDefaultMedicalCare>estabelecer cuidado médico predeterminado</MedicalTab.SetDefaultMedicalCare>
+
+  <!-- self-tend -->
+  <MedicalTab.PawnIsIncapableOfX>{0} é incapaz de {1}</MedicalTab.PawnIsIncapableOfX>
+  <MedicalTab.PawnIsNotAX>{0} não é um {1}</MedicalTab.PawnIsNotAX>
+  <MedicalTab.ToggleSelfTend>alternar "atender a si mesmo": {0}</MedicalTab.ToggleSelfTend>
+
+  <!-- surgeries -->
+  <MedicalTab.Reduce>reduzir</MedicalTab.Reduce>
+  <MedicalTab.Increase>aumentar</MedicalTab.Increase>
+  <MedicalTab.ShowSurgeryOptionsThat>mostrar procedimentos que {0} {1}</MedicalTab.ShowSurgeryOptionsThat>
+  <MedicalTab.ScheduledProcedures>Procedimentos programados:</MedicalTab.ScheduledProcedures>
+
+  <!-- filter  -->
+  <MedicalTab.FilterHealthyOn>Filtro ativo: Somente quem esta com problemas de saúde.\n\nClique para desativar o filtro.</MedicalTab.FilterHealthyOn>
+  <MedicalTab.FilterHealthyOff>Sem filtro.\n\nClique para filtrar apenas quem esta com problemas de saúde.</MedicalTab.FilterHealthyOff>
+
+  <!-- settings -->
+  <MedicalTab.SuggestDrugs>Sugestão de drogas administradas</MedicalTab.SuggestDrugs>
+  <MedicalTab.SuggestDrugsTip>As drogas devem estar na lista de operações medicas sugeridas?</MedicalTab.SuggestDrugsTip>
+  <MedicalTab.ShowAllHostiles>Mostrar todos os enimigos</MedicalTab.ShowAllHostiles>
+  <MedicalTab.ShowAllHostilesTip>De forma predefinida, somente os enimigos caidos aparecerão na categoria "Inimigos" da ficha médica. Habilitar esta opção mostra todos os peões inimigos (que estão visiveis para você).</MedicalTab.ShowAllHostilesTip>
+
+
+</LanguageData>

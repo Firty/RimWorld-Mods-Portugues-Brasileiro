@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<PlantPlantainTree.description> Uma árvore frutífera que cultiva numerosos cachos de plátanos. Dá frutos três vezes por ano quando amadurece. </PlantPlantainTree.description>
+
+<PlantPlantainTree.label> árvore da plantain </PlantPlantainTree.label>
+
+<PlantOrangeTree.description> Uma árvore frutífera que cultiva uma série de frutas cítricas alaranjadas. A árvore não é destruída quando escolhida. </PlantOrangeTree.description>
+
+<PlantOrangeTree.label> citrus tree </PlantOrangeTree.label>
+
+<PlantPomegranateTree.description> Uma árvore frutífera que produz um número de romãs. A árvore não é destruída quando escolhida. </PlantPomegranateTree.description>
+
+<PlantPomegranateTree.label> pomegranate tree </PlantPomegranateTree.label>
+
+<PlantCacaoTree.description> Um cacaueiro. Seus grãos são usados ​​na fabricação de chocolate. </PlantCacaoTree.description>
+
+<PlantCacaoTree.label> cacao tree </PlantCacaoTree.label>
+
+<PlantFigTree.description> Uma árvore frutífera que produz vários frutos de figo. A árvore não é destruída quando escolhida. </PlantFigTree.description>
+
+<PlantFigTree.label> figueira </PlantFigTree.label>
+</LanguageData>

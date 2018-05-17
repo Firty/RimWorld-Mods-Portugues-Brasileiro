@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallDiplomatCore.label>install auxiliary AI (diplomatic)</InstallDiplomatCore.label>
+
+	<InstallDiplomatCore.description>Installs auxiliary AI (diplomatic).</InstallDiplomatCore.description>
+
+	<InstallDiplomatCore.jobstring>Installing auxiliary AI (diplomatic).</InstallDiplomatCore.jobstring>
+
+	<InstallDoctorCore.label>install auxiliary AI (medical)</InstallDoctorCore.label>
+
+	<InstallDoctorCore.description>Installs auxiliary AI (medical).</InstallDoctorCore.description>
+
+	<InstallDoctorCore.jobstring>Installing auxiliary AI (medical).</InstallDoctorCore.jobstring>
+
+	<InstallFarmerCore.label>install auxiliary AI (agricultural)</InstallFarmerCore.label>
+
+	<InstallFarmerCore.description>Installs auxiliary AI (agricultural).</InstallFarmerCore.description>
+
+	<InstallFarmerCore.jobstring>Installing auxiliary AI (agricultural).</InstallFarmerCore.jobstring>
+
+	<InstallMuscleStimulatorArms.label>install muscle stimulator</InstallMuscleStimulatorArms.label>
+
+	<InstallMuscleStimulatorArms.description>Installs muscle stimulator.</InstallMuscleStimulatorArms.description>
+
+	<InstallMuscleStimulatorArms.jobstring>Installing muscle stimulator.</InstallMuscleStimulatorArms.jobstring>
+
+	<InstallMinerCore.label>install auxiliary AI (mining)</InstallMinerCore.label>
+
+	<InstallMinerCore.description>Installs auxiliary AI (mining).</InstallMinerCore.description>
+
+	<InstallMinerCore.jobstring>Installing auxiliary AI (mining).</InstallMinerCore.jobstring>
+
+	<InstallConstructorCore.label>install auxiliary AI (constructing)</InstallConstructorCore.label>
+
+	<InstallConstructorCore.description>Installs auxiliary AI (constructing).</InstallConstructorCore.description>
+
+	<InstallConstructorCore.jobstring>Installing auxiliary AI (constructing).</InstallConstructorCore.jobstring>
+
+	<InstallTacticalCorneaImplant.label>install tactical cornea implant</InstallTacticalCorneaImplant.label>
+
+	<InstallTacticalCorneaImplant.description>Installs tactical cornea implant.</InstallTacticalCorneaImplant.description>
+
+	<InstallTacticalCorneaImplant.jobstring>Installing tactical cornea implant.</InstallTacticalCorneaImplant.jobstring>
+
+	<InstallMuscleStimulatorLegs.label>install muscle stimulator</InstallMuscleStimulatorLegs.label>
+
+	<InstallMuscleStimulatorLegs.description>Installs muscle stimulator.</InstallMuscleStimulatorLegs.description>
+
+	<InstallMuscleStimulatorLegs.jobstring>Installing muscle stimulator.</InstallMuscleStimulatorLegs.jobstring>
+
+</LanguageData>

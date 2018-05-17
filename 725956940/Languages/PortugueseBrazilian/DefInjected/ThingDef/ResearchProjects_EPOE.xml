@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<EnergizedComponents.label>energized components</EnergizedComponents.label>
+
+	<EnergizedComponents.description>You can now energize components at the component assembly bench, which can then power more complex prostheses.</EnergizedComponents.description>
+
+</LanguageData>

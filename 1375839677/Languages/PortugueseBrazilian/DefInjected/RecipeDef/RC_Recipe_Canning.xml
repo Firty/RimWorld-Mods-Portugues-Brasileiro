@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CookCannedFruit.label>fazer fruta enlatada</CookCannedFruit.label>
+
+	<CookCannedFruit.description>Coloque a fruta em uma lata esterilizada para evitar que apodreça.</CookCannedFruit.description>
+
+	<CookCannedFruit.jobstring>Frutas em conserva.</CookCannedFruit.jobstring>
+
+	<CookCannedFruitBulk.label>fazer conservas de frutas a granel</CookCannedFruitBulk.label>
+
+	<CookCannedFruitBulk.description>Coloque a fruta em uma lata esterilizada para evitar que apodreça. Faz 10x.</CookCannedFruitBulk.description>
+
+	<CookCannedFruitBulk.jobstring>Frutas em conserva a granel.</CookCannedFruitBulk.jobstring>
+
+	<CookCannedMeatBulk.label>fazer carne enlatada a granel</CookCannedMeatBulk.label>
+
+	<CookCannedMeatBulk.description>Coloque a carne em uma lata esterilizada para evitar que apodreça. Faz 10x.</CookCannedMeatBulk.description>
+
+	<CookCannedMeatBulk.jobstring>Conservas de carne a granel.</CookCannedMeatBulk.jobstring>
+
+	<CookCannedVegetablesBulk.label>fazer conservas de legumes a granel</CookCannedVegetablesBulk.label>
+
+	<CookCannedVegetablesBulk.description>Coloque os legumes em uma lata esterilizada para evitar que apodreçam. Faz 10x.</CookCannedVegetablesBulk.description>
+
+	<CookCannedVegetablesBulk.jobstring>Conservas de legumes a granel.</CookCannedVegetablesBulk.jobstring>
+
+	<CookCannedMeat.label>fazer carne enlatada</CookCannedMeat.label>
+
+	<CookCannedMeat.description>Coloque a carne em uma lata esterilizada para evitar que apodreça.</CookCannedMeat.description>
+
+	<CookCannedMeat.jobstring>Carne enlatada.</CookCannedMeat.jobstring>
+
+	<CookCannedVegetables.label>fazer vegetais enlatados</CookCannedVegetables.label>
+
+	<CookCannedVegetables.description>Coloque os legumes em uma lata esterilizada para evitar que apodreçam.</CookCannedVegetables.description>
+
+	<CookCannedVegetables.jobstring>Legumes em conserva.</CookCannedVegetables.jobstring>
+
+</LanguageData>

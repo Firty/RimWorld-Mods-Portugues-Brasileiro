@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <FALCRS.GraphOpacity>Niveis estatísticos</FALCRS.GraphOpacity>
+    <FALCRS.GraphOpacityDesc>Nivel dos medidores de estatísticas dos quartos</FALCRS.GraphOpacityDesc>
+
+    <FALCRS.HeatMapOpacity>Nivel do mapa de calor</FALCRS.HeatMapOpacity>
+    <FALCRS.HeatMapOpacityDesc>Nivel do mapa de calor principal, quando ativado</FALCRS.HeatMapOpacityDesc>
+
+    <FALCRS.UpdateDelay>Atraso de atualização</FALCRS.UpdateDelay>
+    <FALCRS.UpdateDelayDesc>Tempo de jogos entre as atualizações de estatísticas</FALCRS.UpdateDelayDesc>
+
+    <FALCRS.GraphToggle>Alternar painéis e sobreposição do medidor de estado da sala</FALCRS.GraphToggle>
+
+    <FALCRS.ShowStatMeters>Mostrar medidores estatísticos</FALCRS.ShowStatMeters>
+    <FALCRS.ShowStatMetersDesc>Mostrar painéis do medidor de estatística, quando a ferramenta estiver ativada</FALCRS.ShowStatMetersDesc>
+
+    <FALCRS.ShowHeatMap>Mostrar mapa de temperatura</FALCRS.ShowHeatMap>
+    <FALCRS.ShowHeatMapDesc>Mostrar sobreposição do mapa de calor colorido com base na estatística principal, quando a ferramenta está ativada</FALCRS.ShowHeatMapDesc>
+
+    <FALCRS.ShowRoomLabels>Mostrar rótulos de função da sala</FALCRS.ShowRoomLabels>
+    <FALCRS.ShowRoomLabelsDesc>Função da sala de exibição (por exemplo, quarto, sala de jantar) em painéis de sobreposição</FALCRS.ShowRoomLabelsDesc>
+</LanguageData>

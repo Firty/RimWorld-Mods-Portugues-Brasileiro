@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CaffeineTolerance.label>tolerancia a cafeina</CaffeineTolerance.label>
+
+	<CaffeineAddiction.label>vício em cafeina</CaffeineAddiction.label>
+
+	<CaffeineAddiction.stages.1.label>abstinencia</CaffeineAddiction.stages.1.label>
+
+	<Caffeine.label>cafeina</Caffeine.label>
+
+	<Caffeine.stages.0.label>animou-se</Caffeine.stages.0.label>
+
+	<Caffeine.stages.1.label>com fio</Caffeine.stages.1.label>
+
+	<Caffeine.stages.2.label>agitado</Caffeine.stages.2.label>
+
+	<Caffeine.stages.3.label>instável</Caffeine.stages.3.label>
+
+</LanguageData>

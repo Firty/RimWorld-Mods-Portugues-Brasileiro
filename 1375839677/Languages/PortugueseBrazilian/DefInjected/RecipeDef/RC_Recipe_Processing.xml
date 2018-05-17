@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<ProcessCacao.label>fazer chocolate</ProcessCacao.label>
+
+<ProcessCacao.description>Combine grãos de cacau e açúcar para fazer deliciosos e deliciosos chocolates</ProcessCacao.description>
+
+<ProcessCacao.jobstring>Fazendo Chocolate</ProcessCacao.jobstring>
+
+<ProcessSoybeanBulk.label>fazer tofu a granel</ProcessSoybeanBulk.label>
+
+<ProcessSoybeanBulk.description>Faça tofu de soja. Ai credo. Faz 5x tanto.</ProcessSoybeanBulk.description>
+
+<ProcessSoybeanBulk.jobstring>Fazendo tofu.</ProcessSoybeanBulk.jobstring>
+
+<ProcessGrain.label>fazer farinha de grão</ProcessGrain.label>
+
+<ProcessGrain.description>Processar grãos em farinha, tornando-a utilizável em alimentos.</ProcessGrain.description>
+
+<ProcessGrain.jobstring>Moer o grão em farinha.</ProcessGrain.jobstring>
+
+<ProcessCacaoBulk.label>fazer chocolate a granel</ProcessCacaoBulk.label>
+
+<ProcessCacaoBulk.description>Combine grãos de cacau e açúcar para fazer um delicioso e delicioso chocolate. Faz 5x.</ProcessCacaoBulk.description>
+
+<ProcessCacaoBulk.jobstring>Fazendo Chocolate a granel</ProcessCacaoBulk.jobstring>
+
+<ProcessSoybean.label>fazer tofu</ProcessSoybean.label>
+
+<ProcessSoybean.description>Faça tofu de soja. Ai credo.</ProcessSoybean.description>
+
+<ProcessSoybean.jobstring>Fazendo tofu.</ProcessSoybean.jobstring>
+
+<ProcessGrainBulk.label>fazer farinha de grão a granel</ProcessGrainBulk.label>
+
+<ProcessGrainBulk.description>Processar grãos em farinha, tornando-os utilizáveis em alimentos. Faz 10 Farinha</ProcessGrainBulk.description>
+
+<ProcessGrainBulk.jobstring>Moer o grão em farinha a granel.</ProcessGrainBulk.jobstring>
+
+<ProcessSugarcaneBulk.label>fazer açúcar da cana a granel</ProcessSugarcaneBulk.label>
+
+<ProcessSugarcaneBulk.description>Processe a cana-de-açúcar em um delicioso pó branco, destruidor de dentes. Faz 5 Açúcar.</ProcessSugarcaneBulk.description>
+
+<ProcessSugarcaneBulk.jobstring>Processamento de cana-de-açúcar a granel.</ProcessSugarcaneBulk.jobstring>
+
+<ProcessSugarcane.label>fazer açúcar de cana</ProcessSugarcane.label>
+
+<ProcessSugarcane.description>Processe a cana-de-açúcar em um delicioso pó branco, destruidor de dentes.</ProcessSugarcane.description>
+
+<ProcessSugarcane.jobstring>Processamento de cana.</ProcessSugarcane.jobstring>
+
+</LanguageData>

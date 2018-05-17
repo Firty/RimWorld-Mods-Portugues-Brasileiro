@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<FishBody.label>Corpo de peixe</FishBody.label>
+	<FishHead.label>Cabeça de peixe</FishHead.label>
+	<FishMouth.label>Boca de Peixe</FishMouth.label>
+	<LeftGill.label>Brânquia Esquerda</LeftGill.label>
+	<RightGill.label>Brânquia Direita</RightGill.label>
+	<LeftFin.label>Barbatana Esquerda</LeftFin.label>
+	<RightFin.label>Barbatana Direita</RightFin.label>
+	<DorsalFin.label>Barbatanas Dorsais</DorsalFin.label>
+	<VentralFin.label>Barbatanas Ventrais</VentralFin.label>
+	<CaudalFin.label>Barbatana da Caudal</CaudalFin.label>
+	<SquidBody.label>Corpo de Lula</SquidBody.label>
+	<SquidHead.label>Cabeças de Lula</SpiledHead.label>
+	<SquidMouth.label>Bocal de Lula</SquishMouth.label>
+	<Tentacle.label>Tentaculos</Tentacle.label>
+
+</LanguageData>

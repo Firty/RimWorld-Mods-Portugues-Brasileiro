@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Recruiting -->
+<RecruitAngerMultiple>{0} interrompido {1} {2} x em sequência.</RecruitAngerMultiple>
+<RecruitAngerOther>{3} Eu notei como {0} tentou ligar {1} e ficou ofendido ({2} chance).</RecruitAngerOther>
+<RecruitFactionAnger>{0} de {1} estão chateados por causa do seu recrutamento {2} ({3}).</RecruitFactionAnger>
+<RecruitFactionAngerLeaderless>Os membros de {0} estão chateados com você por recrutar {1} ({2}).</RecruitFactionAngerLeaderless>
+<RecruitFactionPlease>{0} de {1} feliz por ter levado {2} para si mesmo ({3}).</RecruitFactionPlease>
+<RecruitFactionPleaseLeaderless>Os membros {0} estão felizes por você ter {1} ({2}) deles.</RecruitFactionPleaseLeaderless>
+<MessageGuestRecruitSuccess>{0} de bom grado decidiu se juntar a sua colônia!</MessageGuestRecruitSuccess>
+<LetterLabelRecruitFactionChiefAnger>O líder está indignado</LetterLabelRecruitFactionChiefAnger>
+<LetterLabelRecruitFactionAnger>Fração é indignada</LetterLabelRecruitFactionAnger>
+<LetterLabelRecruitFactionChiefPlease>O líder está satisfeito</LetterLabelRecruitFactionChiefPlease>
+<LetterLabelRecruitFactionPlease>Facção satisfeita</LetterLabelRecruitFactionPlease>
+<TextMote_CharmFail>Ofendido</TextMote_CharmFail>
+<TextMote_CharmSuccess>Encantado</TextMote_CharmSuccess>
+<!-- Diplomacy -->
+<ImproveFactionPlease>{0} melhorou o relacionamento com {1} de {2} (chance de {3}).</ImproveFactionPlease>
+<ImproveFactionAnger>{0} deteriorou as relações com {1} de {2} (chance de {3}).</ImproveFactionAnger>
+<!-- Incident Results --> 
+<VisitorsLeavingGreat>Convidados de {0} sair. Eles são surpreendidos pela sua hospitalidade! (Pontuação: {1})</VisitorsLeavingGreat>
+<VisitorsLeavingGood>Convidados de {0} sair. Eles gostaram de você. (Pontuação: {1})</VisitorsLeavingGood>
+<VisitorsLeavingNormal>Convidados de {0} sair. Eles são gratos por sua hospitalidade.</VisitorsLeavingNormal>
+<VisitorsLeavingBad>Convidados de {0} sair. Você não gostou deles. (Pontuação: {1})</VisitorsLeavingBad>
+<VisitorsLeavingAwful>Convidados de {0} sair. Eles nunca vão querer visitá-lo novamente. (Pontuação: {1})</VisitorsLeavingAwful>
+<VisitorSatisfied>{0} está satisfeito com a hospitalidade. {2} Deixa você {3}.</VisitorSatisfied>
+<VisitorVerySatisfied>{0} está muito satisfeito com a {1} hospitalidade. {2} Deixa você {3}.</VisitorVerySatisfied>
+<MessageVisitorsLeavingCold>Convidados de {0} sair, porque eles são muito frios.</MessageVisitorsLeavingCold>
+<VisitorsSentAway>Você os levou embora.</VisitorsSentAway>
+<MessageMissingPawnFactionAnger>Um participante da facção "{0}" desapareceu sem deixar vestígios em seu território! ({2})</MessageMissingPawnFactionAnger>
+<MessageMissingPawnsFactionAnger>{1} Membros da facção "{0}" desapareceram em seu território! ({2})</MessageMissingPawnsFactionAnger>
+<MessageKilledPawnFactionAnger>A facção "{0}" descobriu o que aconteceu com {1} e culpa você por isso. ({2})</MessageKilledPawnFactionAnger>
+<LetterLabelMissingPawnsFactionAnger>Líder em fúria</LetterLabelMissingPawnsFactionAnger>
+<VisitorsReturnSoon>Eles vão visitá-lo novamente nos próximos dias.</VisitorsReturnSoon>
+<VisitorsReturnWhile>Eles vão visitá-lo novamente em breve.</VisitorsReturnWhile>
+<VisitorsReturnNotSoon>Eles não retornarão no futuro próximo.</VisitorsReturnNotSoon>
+<VisitorsReturnNot>Eles te bastaram.</VisitorsReturnNot>
+<!-- Tab -->
+<ConvincingLeft>É preciso convicção</ConvincingLeft>
+<RecruitmentChance>Chance de recrutamento</RecruitmentChance>
+<RecruitmentPenalty>Deterioração das relações de recrutamento</RecruitmentPenalty>
+<ImproveRelationship>Tente melhorar as relações</ImproveRelationship>
+<LeaveAlone>Deixe sozinho</LeaveAlone>
+<MayBuy>Permitir comprar itens na área</MayBuy>
+<FactionGoodwill>Relações atuais com a facção</FactionGoodwill>
+<Hospitality>O contentamento da hospitalidade</Hospitality>
+<MakeDefault>Definir como padrão</MakeDefault>
+<SendAway>Expulsar</SendAway>
+<SendAwayQuestion>Tem certeza de que deseja enviar visitantes de {0} para longe?</SendAwayQuestion>
+<NotEnoughFriends>NAME não gosta de seus colonos o suficiente (opinião) {0}</NotEnoughFriends>
+<CanNowBeRecruited>NAME agora pode ser recrutado.</CanNowBeRecruited>
+<IsATrader>NAME faz parte da caravana de compras e não é um convidado.</IsATrader>
+<!-- Infos -->
+<StatsReport_FinalAdjustment>Consertar</StatsReport_FinalAdjustment>
+<!-- Bed -->
+<ForGuestUse>Para uso dos hóspedes</ForGuestUse>
+<!-- Rescue -->
+<RescuedInitial>Facção {0} é muito grato por salvar NAME e ELE realmente quer ficar com você.\n\nHECAP - {1}.</RescuedInitial>
+<RescuedInitial_Accept>Aceite o HIS</RescuedInitial_Accept>
+<RescuedInitial_Reject>Envie o HIS de volta</RescuedInitial_Reject>
+<!-- Wanderer -->
+<WandererInitial>NAME de {0} perambulou e percebeu que você precisa de ajuda. O HECAP gostaria de se juntar à sua colônia por um tempo. \n\nHECAP {1} e os traços de personagem HIS {2}.</WandererInitial>
+
+</LanguageData>

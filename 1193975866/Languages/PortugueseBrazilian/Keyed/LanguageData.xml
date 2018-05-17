@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RBB.BasicBridges>Pontes Básicas do Rainbeau</RBB.BasicBridges>
+
+	<RBB.BasicBridge>deve ser colocado em águas rasas ou pântanos.</RBB.BasicBridge>
+	<RBB.DeepWaterBridge>deve ser colocado em águas profundas.</RBB.DeepWaterBridge>
+	<RBB.Boardwalk>deve ser colocado em um ponto perto da água.</RBB.Boardwalk>
+	<RBB.NoFloorOnBridge>Não é possível instalar o piso na ponte.</RBB.NoFloorOnBridge>
+	<RBB.NotOnFS>não pode ser colocado em um ponto de pesca.</RBB.NotOnFS>
+	<RBB.FSTooClose>está muito perto de outro ponto de pesca.</RBB.FSTooClose>
+	<RBB.FishingSpot1>O ponto de pesca deve ser colocado na água e não na lama.</RBB.FishingSpot1>
+	<RBB.FishingSpot2>Pontos de pesca devem ser colocados na água ou pântanos e adjacentes a pontes ou cais costeiros.</RBB.FishingSpot2>
+	<RBB.ShellfishTrap>deve ser colocado na água ou pântanos e adjacente à ponte ou ao cais do litoral.</RBB.ShellfishTrap>
+	<RBB.TrapTooClose>está muito perto de outra gaiola de caranguejo.</RBB.TrapTooClose>
+
+</LanguageData>

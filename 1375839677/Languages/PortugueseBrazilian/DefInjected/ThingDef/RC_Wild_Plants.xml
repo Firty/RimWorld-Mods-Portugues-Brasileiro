@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantCoconutTree.description>Uma palmeira que cresce cocos.</PlantCoconutTree.description>
+
+	<PlantCoconutTree.label>Coqueiro</PlantCoconutTree.label>
+
+	<PlantCactusFruit.label>cacto de pera espinhosa</PlantCactusFruit.label>
+
+	<PlantCactusFruit.description>Um cacto deserto de folhas grandes com frutos comestíveis.</PlantCactusFruit.description>
+
+	<PlantTruffles.label>planta de trufas</PlantTruffles.label>
+
+	<PlantTruffles.description>Um fungo comestível que é difícil de encontrar e altamente valorizado pelo seu sabor.</PlantTruffles.description>
+
+	<PlantFlax.label>planta de linho</PlantFlax.label>
+
+	<PlantFlax.description>Produz o linho, uma fibra útil para fazer pano de linho.</PlantFlax.description>
+
+</LanguageData>

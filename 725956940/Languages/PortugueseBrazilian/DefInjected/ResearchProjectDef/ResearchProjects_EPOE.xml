@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SimpleProsthetics.label>Proteses Simples</SimpleProsthetics.label>
+
+	<SimpleProsthetics.description>Amplos estudos da anatomia e testando diferentes materiais permitem agora para fazer proteses simples.</SimpleProsthetics.description>
+
+	<Bionics.label>Bionica</Bionics.label>
+
+	<Bionics.description>Ao descobrir o conceito de motores e circuitos miniaturizados, novas possibilidades para melhorias protéticos disponíveis para você.</Bionics.description>
+
+	<AdvancedBionics.label>Bionico Avançado</AdvancedBionics.label>
+
+	<AdvancedBionics.description>Melhorar próteses biônicas regulares com vancidium, para torná-los ainda melhor.</AdvancedBionics.description>
+
+	<SurrogateOrgans.description>Ao aumentar o seu conhecimento médico, a criação de órgãos artificiais se torna possível substituir os órgãos destruídos ou desaparecidos.</SurrogateOrgans.description>
+
+	<SyntheticOrgans.description>pesquisa em nanotecnologia avançada permitem criar órgãos artificiais incrivelmente bem concebidos.</SyntheticOrgans.description>
+
+	<RibReplacements.label>Substituindo Costelas</RibReplacements.label>
+
+	<RibReplacements.description>Ao descobrir o conceito de máquinas miniaturizadas, você pode querer implementá-las nas costelas.</RibReplacements.description>
+
+	<BrainSurgery.label>Cirurgia no Cérebro</BrainSurgery.label>
+
+	<BrainSurgery.description>Permite executar operações cirúrgicas no cérebro.</BrainSurgery.description>
+
+	<BasicProsthetics.label>Basic prosthetics</BasicProsthetics.label>
+
+	<BasicProsthetics.description>Understanding the shape of a leg and combining that knowledge with basic woodworking, you can now craft peg legs and other basic prostheses.</BasicProsthetics.description>
+
+	<EnergizedComponents.label>energized components</EnergizedComponents.label>
+
+	<EnergizedComponents.description>You can now energize components at the component assembly bench, which can then power more complex prostheses.</EnergizedComponents.description>
+
+	<SyntheticSkin.label>synthetic skin</SyntheticSkin.label>
+
+	<SyntheticSkin.description>Allows you to craft synthetic skin.</SyntheticSkin.description>
+
+</LanguageData>

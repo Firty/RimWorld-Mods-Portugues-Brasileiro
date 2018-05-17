@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- PlaceWorker -->
+	<FishIndustry.HopperMustNextToBasin>A entrada de alimentação deve ser colocada ao lado do tanque de eco-cultura.</FishIndustry.HopperMustNextToBasin>
+	<FishIndustry.FishingPier_InvalidBiome>Não há peixe nesta ecologia.</FishIndustry.FishingPier_InvalidBiome>
+	<FishIndustry.FishingPier_MustTouchBank>Os terminais de pesca devem estar conectados à costa.</FishIndustry.FishingPier_MustTouchBank>
+	<FishIndustry.FishingPier_PierMustOnWater>O cais de pesca deve ser colocado acima da superfície da água.</FishIndustry.FishingPier_PierMustOnWater>
+	<FishIndustry.FishingPier_ZoneMustOnWater>A área de pesca deve ser colocada acima da superfície da água.</FishIndustry.FishingPier_ZoneMustOnWater>
+	<FishIndustry.FishingPier_ToClose>Está muito perto de outro píer de pesca.</FishIndustry.FishingPier_ToClose>
+	<FishIndustry.FishingPier_ToCloseBlueprint>está muito próximo do projeto de outra doca de pesca.</FishIndustry.FishingPier_ToCloseBlueprint>
+	<FishIndustry.FishingPier_ToCloseFrame>está muito próximo da estrutura de outra doca de pesca.</FishIndustry.FishingPier_ToCloseFrame>
+
+	<!-- Alerts -->
+
+	<FishIndustry.NeedAquacultureHopperLabel>Necessita de uma entrada de alimentação eco-farm</FishIndustry.NeedAquacultureHopperLabel>
+	<FishIndustry.NeedAquacultureHopperExplanation>Você tem um tanque de eco-cultura que não é alimentado. \n\nDeve haver um tanque de alimentação ecológico cheio de comida vegetariana crua para fornecer matéria-prima para que os tanques ecológicos funcionem adequadamente. \n\nConstrua uma calha de eco-cultura ao lado do tanque de eco-cultura para a entrada de alimentação.</FishIndustry.NeedAquacultureHopperExplanation>
+	<FishIndustry.IdleAquacultureBasinLabel>Slot de aquicultura inativa</FishIndustry.IdleAquacultureBasinLabel>
+	<FishIndustry.IdleAquacultureBasinExplanation>Você tem um tanque de eco-cultura grátis \n\nVocê deveria prover alguns ovos de peixe para começar a cultivar. \n\nUse a guia da lista de verificação para garantir que você tenha um colonizador que tenha atribuído um trabalho de busca.</FishIndustry.IdleAquacultureBasinExplanation>
+ 
+	<!-- Message -->
+	<FishIndustry.KillBredSpecies>Os peixes cultivados em tanques ecológicos morrem. Você deve verificar seu status.</FishIndustry.KillBredSpecies>
+
+	<!-- Inspect String -->
+	<FishIndustry.ProgressLabel>Processo: {0}</FishIndustry.ProgressLabel>
+	<FishIndustry.Problem_NoFood>(comida em falta)</FishIndustry.Problem_NoFood>
+	<FishIndustry.Problem_TooCold>(Temperatura rápida)</FishIndustry.Problem_TooCold>
+	<FishIndustry.Problem_TooHot>(Temperatura rápida)</FishIndustry.Problem_TooHot>
+	<FishIndustry.Problem_WaterQualityCritical>(Qualidade da água crítica)</FishIndustry.Problem_WaterQualityCritical>
+	<FishIndustry.Problem_MicroFungus>(Fungos)</FishIndustry.Problem_MicroFungus>
+	<FishIndustry.BredSpecies>Espécies Alimentares: {0}</FishIndustry.BredSpecies>
+	<FishIndustry.WaterQulityFishesHealth>Qualidade da água / Estatus da saúde dos peixes: {0}</FishIndustry.WaterQulityFishesHealth>
+	<FishIndustry.FishStock>Estoques de peixes: {0}</FishIndustry.FishStock>
+
+	<!-- Letters -->
+
+	<FishIndustry.LetterLabelMicroFungus>Fungos</FishIndustry.LetterLabelMicroFungus>
+	<FishIndustry.MicroFungus>Alguns tanques ecológicos foram infectados com estranhos fungos aquáticos. Parece consumir todo o oxigênio da água. \nEu espero que o peixe possa passar.</FishIndustry.MicroFungus>
+	<FishIndustry.LetterLabelSunkenTreasure>Tesouro Subaquático!</FishIndustry.LetterLabelSunkenTreasure>
+	<FishIndustry.SunkenTreasure>{0} encontrado tesouro subaquático durante a pesca! Alegria acidental! \n</FishIndustry.SunkenTreasure>
+
+</LanguageData>

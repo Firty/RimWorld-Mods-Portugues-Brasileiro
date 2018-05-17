@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RC_RollerMill.label>moinho</RC_RollerMill.label>
+
+	<RC_RollerMill.description>Uma pequena retificadora elétrica que usa rolos para moer material vegetal.</RC_RollerMill.description>
+
+	<RC_Quernstone.label>moinho manual</RC_Quernstone.label>
+
+	<RC_Quernstone.description>Uma pequena pedra de moagem movida a músculo para moer rapidamente plantas cruas.</RC_Quernstone.description>
+
+	<RC_FoodPrepSpot.label>preparar ingredientes</RC_FoodPrepSpot.label>
+
+	<RC_FoodPrepSpot.description>Um lugar para preparar ingredientes para usar na culinária.</RC_FoodPrepSpot.description>
+
+</LanguageData>

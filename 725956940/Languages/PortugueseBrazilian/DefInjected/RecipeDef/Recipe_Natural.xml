@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallNaturalEye.label>Instalar Olho</InstallNaturalEye.label>
+	<InstallNaturalEye.description>Instala um Olho.</InstallNaturalEye.description>
+    <InstallNaturalEye.jobString>Instalando Olho</InstallNaturalEye.jobString>
+
+	<InstallNaturalNose.label>Instalar Nariz</InstallNaturalNose.label>
+	<InstallNaturalNose.description>Instala um Nariz.</InstallNaturalNose.description>
+    <InstallNaturalNose.jobString>Instalando Nariz</InstallNaturalNose.jobString>
+
+	<InstallNaturalEar.label>Instalar Orelha</InstallNaturalEar.label>
+	<InstallNaturalEar.description>Instala uma Orelha.</InstallNaturalEar.description>
+    <InstallNaturalEar.jobString>Instalando Orelha</InstallNaturalEar.jobString>
+
+	<InstallNaturalJaw.label>Instalar Mandibula</InstallNaturalJaw.label>
+	<InstallNaturalJaw.description>Instala uma Mandibula.</InstallNaturalJaw.description>
+    <InstallNaturalJaw.jobString>Instalando Mandibula</InstallNaturalJaw.jobString>
+
+	<InstallNaturalArm.label>Instalar Braço</InstallNaturalArm.label>
+	<InstallNaturalArm.description>Instala um Braço.</InstallNaturalArm.description>
+    <InstallNaturalArm.jobString>Instalando Braço</InstallNaturalArm.jobString>
+
+	<InstallNaturalLeg.label>Instalar Perna</InstallNaturalLeg.label>
+	<InstallNaturalLeg.description>Instala uma Perna.</InstallNaturalLeg.description>
+    <InstallNaturalLeg.jobString>Instalando Perna</InstallNaturalLeg.jobString>
+
+	<InstallNaturalStomach.label>Instalar Estomago</InstallNaturalStomach.label>
+	<InstallNaturalStomach.description>Instala um Estomago.</InstallNaturalStomach.description>
+    <InstallNaturalStomach.jobString>Instalando Estomago</InstallNaturalStomach.jobString>
+
+</LanguageData>

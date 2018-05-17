@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<BasicCooking.label>cozimento básico</BasicCooking.label>
+
+<BasicCooking.description>O conhecimento necessário para fazer açúcar e farinha, bem como ensopados simples e hardtack.</BasicCooking.description>
+
+<IntermediateCooking.label>cozimento intermediário</IntermediateCooking.label>
+
+<IntermediateCooking.description>O conhecimento de cozinhar mais avançado, incluindo a criação de um fogão, produção de guisado e processamento de alimentos básicos com um quernstone.</IntermediateCooking.description>
+
+<AdvancedCooking.label>cozinha avançada</AdvancedCooking.label>
+
+<AdvancedCooking.description>Técnicas avançadas de culinária, incluindo a produção de um fogão elétrico, moinho de rolos e fabricação de doces e doces.</AdvancedCooking.description>
+
+<IntermediateFoodPreservation.label>preservação intermediária de alimentos</IntermediateFoodPreservation.label>
+
+<IntermediateFoodPreservation.description>O conhecimento de decapagem de legumes em uma salmoura, fazendo conservas de frutas e a criação de hardtack.</IntermediateFoodPreservation.description>
+
+<AdvancedFoodPreservation.label>preservação avançada de alimentos</AdvancedFoodPreservation.label>
+
+<AdvancedFoodPreservation.description>O conhecimento de conservas e a capacidade de fazer uma fábrica de conservas. A comida enlatada dura indefinidamente.</AdvancedFoodPreservation.description>
+
+<BasicAgriculture.label>agricultura básica</BasicAgriculture.label>
+
+<BasicAgriculture.description>O conhecimento das plantações. Coisas muito básicas.</BasicAgriculture.description>
+
+<BasicForestry.label>silvicultura básica</BasicForestry.label>
+
+<BasicForestry.description>O conhecimento de plantar árvores. Coisas muito básicas.</BasicForestry.description>
+
+<IntermediateAgriculture.label>agricultura intermediária</IntermediateAgriculture.label>
+
+<IntermediateAgriculture.description>O conhecimento do plantio de culturas mais avançadas.</IntermediateAgriculture.description>
+
+<AdvancedForestry.label>silvicultura avançada</AdvancedForestry.label>
+
+<AdvancedForestry.description>O conhecimento do plantio de árvores frutíferas.</AdvancedForestry.description>
+
+<AdvancedAgriculture.label>agricultura avançada</AdvancedAgriculture.label>
+
+<AdvancedAgriculture.description>O conhecimento do plantio de culturas mais avançadas e úteis.</AdvancedAgriculture.description>
+
+<ZopioidRefining.label>refino zopioide</ZopioidRefining.label>
+
+<ZopioidRefining.description>O conhecimento de refinar Zope em Skag e Dreamsticks.</ZopioidRefining.description>
+
+<AdvancedZopioidRefining.label>refino zopioide avançado</AdvancedZopioidRefining.label>
+
+<AdvancedZopioidRefining.description>O conhecimento mais avançado de transformar o zope e o healroot no analgésico relativamente seguro, Viko.</AdvancedZopioidRefining.description>
+
+</LanguageData>

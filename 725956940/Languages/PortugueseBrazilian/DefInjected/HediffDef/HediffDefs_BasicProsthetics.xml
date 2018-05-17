@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SteelArm.label>Braço de Aço</SteelArm.label>
+
+	<EyePatch.label>Tapa Olho</EyePatch.label>
+
+	<HookHand.label>Mão Gancho</HookHand.label>
+
+	<WoodenFoot.label>Pé de Madeira</WoodenFoot.label>
+
+	<denture.label>Dentadura</denture.label>
+
+	<SteelArm.comps.0.tools.0.label>steel fist</SteelArm.comps.0.tools.0.label>
+
+	<HookHand.comps.0.tools.0.label>hook hand</HookHand.comps.0.tools.0.label>
+
+</LanguageData>

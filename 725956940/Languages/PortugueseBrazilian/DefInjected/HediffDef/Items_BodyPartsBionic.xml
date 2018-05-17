@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BionicFoot.label>pé biônico</BionicFoot.label>
+
+	<MedicalRib.label>substituição de costela (médica)</MedicalRib.label>
+
+	<BionicJaw.label>implante de mandíbula biônica</BionicJaw.label>
+
+	<PowerArm.label>braço de potência</PowerArm.label>
+
+	<BionicHand.label>mão biônica</BionicHand.label>
+
+	<BionicSpine.label>coluna biônica</BionicSpine.label>
+
+	<AdrenalineRib.label>substituição de costela (adrenalina)</AdrenalineRib.label>
+
+	<PainkillerRib.label>substituição de costela (analgésico)</PainkillerRib.label>
+
+</LanguageData>

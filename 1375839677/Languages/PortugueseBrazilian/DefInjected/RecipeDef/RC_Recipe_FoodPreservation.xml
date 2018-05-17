@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<RC_CookDriedMeatBulk.label>fazer carne seca a granel</RC_CookDriedMeatBulk.label>
+
+<RC_CookDriedMeatBulk.description>Secar a carne, preservando-a por mais tempo. Faz 5x.</RC_CookDriedMeatBulk.description>
+
+<RC_CookDriedMeatBulk.jobstring>Secagem de carne a granel.</RC_CookDriedMeatBulk.jobstring>
+
+<RC_CookDriedFruit.label>fazer frutas secas</RC_CookDriedFruit.label>
+
+<RC_CookDriedFruit.description>Secar a fruta, preservando-a por mais tempo.</RC_CookDriedFruit.description>
+
+<RC_CookDriedFruit.jobstring>Secagem de frutas.</RC_CookDriedFruit.jobstring>
+
+<RC_CookFruitPreservesBulk.label>fazer conservas de frutas a granel</RC_CookFruitPreservesBulk.label>
+
+<RC_CookFruitPreservesBulk.description>Conserve algumas frutas com açúcar, preservando-o com extrema doçura. Faz 10x</RC_CookFruitPreservesBulk.description>
+
+<RC_CookFruitPreservesBulk.jobstring>Preservando frutas a granel.</RC_CookFruitPreservesBulk.jobstring>
+
+<RC_CookPickledVegetables.label>fazer legumes em conserva</RC_CookPickledVegetables.label>
+
+<RC_CookPickledVegetables.description>Pique alguns legumes em uma solução salgada para preservá-lo. Não é muito gostoso.</RC_CookPickledVegetables.description>
+
+<RC_CookPickledVegetables.jobstring>Conservando Vegetais.</RC_CookPickledVegetables.jobstring>
+
+<RC_CookDriedFruitBulk.label>fazer frutas secas a granel</RC_CookDriedFruitBulk.label>
+
+<RC_CookDriedFruitBulk.description>Secar a fruta, preservando-a por mais tempo. Faz 5x.</RC_CookDriedFruitBulk.description>
+
+<RC_CookDriedFruitBulk.jobstring>Secagem de frutos a granel.</RC_CookDriedFruitBulk.jobstring>
+
+<RC_CookDriedMeat.label>faça carne seca</RC_CookDriedMeat.label>
+
+<RC_CookDriedMeat.description>Secar a carne, preservando-a por mais tempo.</RC_CookDriedMeat.description>
+
+<RC_CookDriedMeat.jobstring>Secagem de carne.</RC_CookDriedMeat.jobstring>
+
+<RC_CookPickledVegetablesBulk.label>fazer legumes em conserva a granel</RC_CookPickledVegetablesBulk.label>
+
+<RC_CookPickledVegetablesBulk.description>Pique alguns legumes em uma solução salgada para preservá-lo. Não é muito gostoso. Faz 10x.</RC_CookPickledVegetablesBulk.description>
+
+<RC_CookPickledVegetablesBulk.jobstring>Picar legumes a granel.</RC_CookPickledVegetablesBulk.jobstring>
+
+<RC_CookFruitPreserves.label>fazer conservas de frutas</RC_CookFruitPreserves.label>
+
+<RC_CookFruitPreserves.description>Conserve algumas frutas com açúcar, preservando-o com extrema doçura.</RC_CookFruitPreserves.description>
+
+<RC_CookFruitPreserves.jobstring>Preservando frutas.</RC_CookFruitPreserves.jobstring>
+
+<MakePemmican.jobstring>Fazendo pemmican.</MakePemmican.jobstring>
+
+<MakePemmicanBulk.label>fazer pemmican a granel</MakePemmicanBulk.label>
+
+<MakePemmicanBulk.description>Faça pemmican, uma combinação preservada de carne e vegetais. Não tem um gosto incrível, mas dura um ano sem refrigeração.</MakePemmicanBulk.description>
+
+<MakePemmicanBulk.jobstring>Fazendo pemmican.</MakePemmicanBulk.jobstring>
+
+<MakeHardtack.label>fazer hardtack</MakeHardtack.label>
+
+<MakeHardtack.description>Faça hardtack, um biscoito duro ou biscoito que dura anos e te enche. Não gosto muito grande embora.</MakeHardtack.description>
+
+<MakeHardtack.jobstring>Fazendo hardtack.</MakeHardtack.jobstring>
+
+<MakeHardtackBulk.label>faça o hardtack no volume</MakeHardtackBulk.label>
+
+<MakeHardtackBulk.description>Faça hardtack, um biscoito duro ou biscoito que dura anos e te enche. Não gosto muito grande embora.</MakeHardtackBulk.description>
+
+<MakeHardtackBulk.jobstring>Fazendo hardtack.</MakeHardtackBulk.jobstring>
+
+</LanguageData>

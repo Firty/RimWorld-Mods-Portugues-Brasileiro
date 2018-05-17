@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+ <MuscleStimulator.label>Simulador Muscular</MuscleStimulator.label>
+  <MuscleStimulator.description>Através de produtos químicos especiais e choques elétricos este pequeno chip é capaz de estimular os músculos para que eles possam operar acima do desempenho máximo.</MuscleStimulator.description>
+
+  <TacticalCorneaImplant.label>Implante Ocular de Tatica</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>Um implante aprimorado que fornece ao usuário informações adicionais sobre alvos em potencial e sugere um ângulo de disparo perfeito.</TacticalCorneaImplant.description>
+
+  <ConstructorCore.label>IA Auxiliar (construtor)</ConstructorCore.label>
+  <ConstructorCore.description>No Glitterworlds, a educação e o treinamento não são mais necessários, nem mesmo para trabalhos complexos. IAs instaladas no cérebro se comunicam permanentemente com o usuário e agem como um guia. Requer pesquisa de cirurgia cerebral antes de instalar.</ConstructorCore.description>
+
+  <FarmerCore.label>IA Auxiliar (agricultor)</FarmerCore.label>
+  <FarmerCore.description>No Glitterworlds, a educação e o treinamento não são mais necessários, nem mesmo para trabalhos complexos. IAs instaladas no cérebro se comunicam permanentemente com o usuário e agem como um guia. Requer pesquisa de cirurgia cerebral antes de instalar.</FarmerCore.description>
+
+  <MinerCore.label>IA Auxiliar (mineração)</MinerCore.label>
+  <MinerCore.description>No Glitterworlds, a educação e o treinamento não são mais necessários, nem mesmo para trabalhos complexos. IAs instaladas no cérebro se comunicam permanentemente com o usuário e agem como um guia. Requer pesquisa de cirurgia cerebral antes de instalar.</MinerCore.description>
+
+  <DoctorCore.label>IA Auxiliar (médico)</DoctorCore.label>
+  <DoctorCore.description>No Glitterworlds, a educação e o treinamento não são mais necessários, nem mesmo para trabalhos complexos. IAs instaladas no cérebro se comunicam permanentemente com o usuário e agem como um guia. Requer pesquisa de cirurgia cerebral antes de instalar.</DoctorCore.description>
+
+  <DiplomatCore.label>IA Auxiliar (diplomacia)</DiplomatCore.label>
+  <DiplomatCore.description>No Glitterworlds, a educação e o treinamento não são mais necessários, nem mesmo para trabalhos complexos. IAs instaladas no cérebro se comunicam permanentemente com o usuário e agem como um guia. Requer pesquisa de cirurgia cerebral antes de instalar.</DiplomatCore.description>
+
+</LanguageData>

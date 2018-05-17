@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<MakeJuice.label>fazer suco</MakeJuice.label>
+
+<MakeJuice.description>Usa uma ou mais frutas para fazer um delicioso suco. Faz 5x.</MakeJuice.description>
+
+<MakeJuice.jobstring>Fazendo suco.</MakeJuice.jobstring>
+
+<MakePastry.label>assar bolos</MakePastry.label>
+
+<MakePastry.description>Usa doces para fazer bolos. Não, são pastéis doces! Cuidado com qualquer aplicação da lei nas proximidades, no entanto, como eles vão comer tudo. Faz 5x.</MakePastry.description>
+
+<MakePastry.jobstring>Fazendo doces.</MakePastry.jobstring>
+
+<MakePastryBulk.label>assar bolos a granel</MakePastryBulk.label>
+
+<MakePastryBulk.description>Usa doces para fazer bolos. Não, são pastéis doces! Cuidado com qualquer aplicação da lei nas proximidades, no entanto, como eles vão comer tudo. Faz 25x.</MakePastryBulk.description>
+
+<MakePastryBulk.jobstring>Fazendo doces.</MakePastryBulk.jobstring>
+
+<MakeJuiceBulk.label>fazer suco a granel</MakeJuiceBulk.label>
+
+<MakeJuiceBulk.description>Usa uma ou mais frutas para fazer um delicioso suco. Faz 25x.</MakeJuiceBulk.description>
+
+<MakeJuiceBulk.jobstring>Fazendo suco.</MakeJuiceBulk.jobstring>
+
+<MakeCandyBulk.label>faça doces a granel</MakeCandyBulk.label>
+
+<MakeCandyBulk.description>Usa doces para fazer doces deliciosos e deliciosos. Faz 25x.</MakeCandyBulk.description>
+
+<MakeCandyBulk.jobstring>Fazendo doces.</MakeCandyBulk.jobstring>
+
+<ProcessCoffeeBulk.label>preparar café a granel</ProcessCoffeeBulk.label>
+
+<ProcessCoffeeBulk.description>Moa grãos de café cru em café delicioso. Receita em massa!</ProcessCoffeeBulk.description>
+
+<ProcessCoffeeBulk.jobstring>Preparando café.</ProcessCoffeeBulk.jobstring>
+
+<MakeCandy.label>fazer doces</MakeCandy.label>
+
+<MakeCandy.description>Usa doces para fazer doces deliciosos e deliciosos. Faz 5x.</MakeCandy.description>
+
+<MakeCandy.jobstring>Fazendo doces.</MakeCandy.jobstring>
+
+<ProcessCoffee.label>preparar café</ProcessCoffee.label>
+
+<ProcessCoffee.description>Moa grãos de café cru em café delicioso.</ProcessCoffee.description>
+
+<ProcessCoffee.jobstring>Preparando café.</ProcessCoffee.jobstring>
+
+</LanguageData>

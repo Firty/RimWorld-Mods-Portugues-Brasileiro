@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GuestBeds.label>Camas de hóspedes</GuestBeds.label>
+
+	<GuestBeds.helptext>Os visitantes preferem dormir em camas.\n\nVocê pode converter camas em camas de hóspedes usando o botão "For guests".</GuestBeds.helptext>
+
+	<RecruitGuest.label>Recrutando convidados</RecruitGuest.label>
+
+	<RecruitGuest.helptext>Você pode recrutar hóspedes.\n\nRecrutar um convidado vai custar-lhe boa vontade com a facção do hóspede. Certifique-se de ter um colono com boas habilidades sociais designado para negociação.</RecruitGuest.helptext>
+
+	<GuestWork.label>Os hóspedes ajudam</GuestWork.label>
+
+	<GuestWork.helptext>Convidados felizes ajudarão com o trabalho dentro de sua área se eles forem habilidosos o suficiente. Você pode desabilitar isso ou aumentar a habilidade necessária nas opções mod.</GuestWork.helptext>
+
+</LanguageData>

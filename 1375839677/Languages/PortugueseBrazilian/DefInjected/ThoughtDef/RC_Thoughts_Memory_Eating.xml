@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<AteUncommonAsIngredient.stages.0.label>comeu ingrediente incomum</AteUncommonAsIngredient.stages.0.label>
+
+<AteUncommonAsIngredient.stages.0.description>Isso foi muito gostoso!</AteUncommonAsIngredient.stages.0.description>
+
+<AteRareAsIngredient.stages.0.label>comeu ingrediente raro</AteRareAsIngredient.stages.0.label>
+
+<AteRareAsIngredient.stages.0.description>Isso foi delicioso!</AteRareAsIngredient.stages.0.description>
+
+<AteExoticAsIngredient.stages.0.label>comeu ingrediente exótico</AteExoticAsIngredient.stages.0.label>
+
+<AteExoticAsIngredient.stages.0.description>Mmmm, tal sabor .. tal textura .. tão bom ..</AteExoticAsIngredient.stages.0.description>
+
+<AtePoorAsIngredient.stages.0.label>comeu ingrediente pobre</AtePoorAsIngredient.stages.0.label>
+
+<AtePoorAsIngredient.stages.0.description>Eca, isso não parecia bom demais.</AtePoorAsIngredient.stages.0.description>
+
+<AteTofuAsIngredient.stages.0.label>comeu tofu</AteTofuAsIngredient.stages.0.label>
+
+<AteTofuAsIngredient.stages.0.description>Ugh, nojento, eles chamam isso de substituto da carne? Me dê um pouco de carne de verdade!</AteTofuAsIngredient.stages.0.description>
+
+<AteExtravagantMeal.stages.0.label>comeu refeição extravagante</AteExtravagantMeal.stages.0.label>
+
+<AteExtravagantMeal.stages.0.description>Essa refeição extravagante foi incrível. Alimentou meu corpo e minha alma.</AteExtravagantMeal.stages.0.description>
+
+<AtePoorFood.stages.0.label>comeu comida pobre</AtePoorFood.stages.0.label>
+
+<AtePoorFood.stages.0.description>Ai credo. Quero dizer, poderia ser pior ..</AtePoorFood.stages.0.description>
+
+<AteUncommonFood.stages.0.label>comeu comida incomum</AteUncommonFood.stages.0.label>
+
+<AteUncommonFood.stages.0.description>Muito bom!</AteUncommonFood.stages.0.description>
+
+<AteRareFood.stages.0.label>comeu comida rara</AteRareFood.stages.0.label>
+
+<AteRareFood.stages.0.description>Eu poderia comer isso o dia todo!</AteRareFood.stages.0.description>
+
+<AteExoticFood.stages.0.label>comeu comida exótica</AteExoticFood.stages.0.label>
+
+<AteExoticFood.stages.0.description>Eu posso morrer feliz agora ..</AteExoticFood.stages.0.description>
+
+</LanguageData>

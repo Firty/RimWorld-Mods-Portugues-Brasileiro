@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<FoodMealsJoy.label>refeições de alegria</FoodMealsJoy.label>
+
+<GrainsRaw.label>grãos crus</GrainsRaw.label>
+
+<VegetablesRaw.label>vegetais crus</VegetablesRaw.label>
+
+<FruitRaw.label>frutas cruas</FruitRaw.label>
+
+<SweetsRaw.label>doces crus</SweetsRaw.label>
+
+<FoodProcessed.label>ingredientes processados</FoodProcessed.label>
+
+<MeatProcessed.label>carne processada</MeatProcessed.label>
+
+<PlantFoodProcessed.label>vegetariano processado</PlantFoodProcessed.label>
+
+<GrainsProcessed.label>grãos processados</GrainsProcessed.label>
+
+<VegetablesProcessed.label>vegetais processados</VegetablesProcessed.label>
+
+<FruitProcessed.label>frutas processadas</FruitProcessed.label>
+
+<SweetsProcessed.label>doces processados</SweetsProcessed.label>
+
+<AnimalProductProcessed.label>produtos animais transformados</AnimalProductProcessed.label>
+
+</LanguageData>

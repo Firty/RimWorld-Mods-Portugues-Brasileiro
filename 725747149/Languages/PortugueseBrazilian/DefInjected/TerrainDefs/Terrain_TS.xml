@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GT_SoilTilled.label>Sólo fértil</GT_SoilTilled.label>
+    <GT_SoilTilled.description>Sólo com 140% de fertilidade.</GT_SoilTilled.description>
+
+    <Dirt.label>Sólo cultivavel</Dirt.label>
+    <Dirt.description>Sólo cultivavel, aplicavel em pisos polidos.</Dirt.description>
+	
+</LanguageData>

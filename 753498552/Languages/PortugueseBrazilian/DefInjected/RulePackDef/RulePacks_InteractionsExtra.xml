@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Sentence_CharmAttemptAccepted.rulepack.rulesstrings.0>sent->[recipient_nameShortDef] está animado com [initiator_nameShortDef]s proposta.</Sentence_CharmAttemptAccepted.rulepack.rulesstrings.0>
+
+	<Sentence_CharmAttemptRejected.rulepack.rulesstrings.0>sent->[recipient_nameShortDef] está ficando irritado com [initiator_nameShortDef].</Sentence_CharmAttemptRejected.rulepack.rulesstrings.0>
+
+</LanguageData>

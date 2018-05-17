@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UseToilet.reportString>defecar (TargetA).</UseToilet.reportString>
+  <haveWildPoo.reportString>defecar ao ar livre.</haveWildPoo.reportString>
+  <useWashBucket.reportString>Se lavando no TargetA.</useWashBucket.reportString>
+  <takeShower.reportString>Tomando banho no TargetA.</takeShower.reportString>
+  <takeBath.reportString>Tomando banho no TargetA.</takeBath.reportString>
+  <washHands.reportString>lavando as mãos em TargetA.</washHands.reportString>
+  <washPatient.reportString>Dando banho em TargetA.</washPatient.reportString>
+  <cleanBedpan.reportString>limpando pinico.</cleanBedpan.reportString>
+  <clearBlockage.reportString>bloqueio de compensação.</clearBlockage.reportString>
+
+</LanguageData>

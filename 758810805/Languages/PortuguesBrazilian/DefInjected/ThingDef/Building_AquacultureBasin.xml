@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AquacultureBasin.label>Tanque de Cultura Ecológica</AquacultureBasin.label>
+	<AquacultureBasin.description>Sumidouro para piscicultura. Precisa estar dentro de casa. Ajuste automático da temperatura da água e qualidade da água. Uma entrada de alimentação precisa ser conectada para fornecer a comida necessária para elevar o peixe.</AquacultureBasin.description>
+	<AquacultureBasin_Blueprint.label>Tanque de Cultura Ecológica (Planta)</AquacultureBasin_Blueprint.label>
+	<AquacultureBasin_Frame.label>Tanque de Cultura Ecológica (Em Construção)</AquacultureBasin_Frame.label>
+	<AquacultureBasin_Frame.description>Pia para a piscicultura. Precisa estar dentro de casa. Ajuste automático da temperatura da água e qualidade da água. Uma entrada de alimentação precisa ser conectada para fornecer a comida necessária para elevar o peixe.</AquacultureBasin_Frame.description>
+
+</LanguageData>

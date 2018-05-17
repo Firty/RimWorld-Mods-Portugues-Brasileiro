@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Dreamstick.label>dreamstick</Dreamstick.label>
+
+	<Dreamstick.description>Um zopioide cuidadosamente refinado conhecido por seus usos médicos, dreamsticks, como eles são conhecidos, é um analgésico de combate valorizado por soldados e médicos. Ao usar um auto-injetor de uso exclusivo especialmente projetado, a droga pode ser injetada com segurança e rapidez para aliviar a dor de forma rápida e relativamente segura. Útil para manter um soldado em combate por mais tempo ou ajudar a levar um para a segurança. Esteja avisado, no entanto, uma vez que se desgasta a dor volta mais forte por um curto período de tempo.</Dreamstick.description>
+
+	<Dreamstick.ingestible.ingestcommandstring>Injetar {0}</Dreamstick.ingestible.ingestcommandstring>
+
+	<Dreamstick.ingestible.ingestreportstring>Injetando {0}.</Dreamstick.ingestible.ingestreportstring>
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<CookWeakStew.label>cozinhar guisado fraco</CookWeakStew.label>
+
+<CookWeakStew.description>Cozinha um guisado suave e simples de alguns ingredientes. Faz 10x.</CookWeakStew.description>
+
+<CookWeakStew.jobstring>Cozinhando guisado fraco.</CookWeakStew.jobstring>
+
+<CookMealSimple.jobstring>Cozinhar refeição simples.</CookMealSimple.jobstring>
+
+<CookMealSimpleCampfire.jobstring>Cozinhar refeição simples.</CookMealSimpleCampfire.jobstring>
+
+<CookMealExtravagant.label>cozinhar refeição extravagante</CookMealExtravagant.label>
+
+<CookMealExtravagant.description>Cozinha uma refeição extravagante a partir de uma combinação de carne, grãos, vegetais, frutas e especiarias. Muitos dos ingredientes são desperdiçados. Vale a pena.</CookMealExtravagant.description>
+
+<CookMealExtravagant.jobstring>Cozinhar refeição extravagante.</CookMealExtravagant.jobstring>
+
+<CookMealLavish.jobstring>Cozinhar refeição generosa.</CookMealLavish.jobstring>
+
+<CookHeartyStew.label>cozinhe o guisado hearty</CookHeartyStew.label>
+
+<CookHeartyStew.description>Cozinha um ensopado de carne e qualquer tipo de alimento vegetal. Faz 10 refeições.</CookHeartyStew.description>
+
+<CookHeartyStew.jobstring>Cozinhando ensopado.</CookHeartyStew.jobstring>
+
+<CookMealFine.jobstring>Cozinhando boa refeição.</CookMealFine.jobstring>
+
+</LanguageData>

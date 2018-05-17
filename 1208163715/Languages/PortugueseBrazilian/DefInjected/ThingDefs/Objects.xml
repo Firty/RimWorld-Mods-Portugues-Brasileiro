@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<QRY_Quarry.label>Pedreira</QRY_Quarry.label>
+	<QRY_Quarry.description>Um grande buraco para se tirar minérios e pedras.</QRY_Quarry.description>
+	
+	<QRY_MiniQuarry.label>Pedreira pequena</QRY_MiniQuarry.label>
+	<QRY_MiniQuarry.description>Um pequeno buraco para se tirar minérios e pedras.</QRY_MiniQuarry.description>
+	
+	<QRY_Platform.label>Plataforma de minério</QRY_Platform.label>
+	<QRY_Platform.description>Uma plataforma ligada a uma pedreira onde os trabalhadores depositarão oque cavarem. Cada pedreira pode ter até duas plataformas. É recomendado por proximo as escadas.</QRY_Platform.description>
+
+</LanguageData>

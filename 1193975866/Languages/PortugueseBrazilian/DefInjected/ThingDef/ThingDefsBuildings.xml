@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RBB_Bridge.label>Ponte de águas rasas</RBB_Bridge.label>
+
+	<RBB_Bridge.description>Uma ponte básica de madeira que é útil quando você atravessa o rio e não quer molhar os pés, pode ser construida em águas rasas, lama e pântanos.</RBB_Bridge.description>
+
+	<RBB_DeepBridge.label>Ponte de águas profundas</RBB_DeepBridge.label>
+
+	<RBB_DeepBridge.description>Uma robusta ponte de madeira projetada para permitir que pedestres atravessem águas mais profundas, o que é mais difícil de construir e só pode ser construído em águas profundas.</RBB_DeepBridge.description>
+
+	<RBB_Boardwalk.label>Suporte de ponte</RBB_Boardwalk.label>
+
+	<RBB_Boardwalk.description>Embora pareça uma ponte, ela ainda está em terra. Use essa estrutura para fazer com que sua ponte ou píer tenha um ponto de suporte na beira da água.</RBB_Boardwalk.description>
+
+	<RBB_Bridge_Stone.label>Ponte de águas rasas</RBB_Bridge_Stone.label>
+
+	<RBB_Bridge_Stone.description>Uma ponte básica de pedra que é útil quando você atravessa o rio e não quer molhar os pés, pode ser construida em águas rasas, lama e pântanos.</RBB_Bridge_Stone.description>
+
+	<RBB_DeepBridge_Stone.label>Ponte de águas profundas</RBB_DeepBridge_Stone.label>
+
+	<RBB_DeepBridge_Stone.description>Uma robusta ponte de pedra projetada para permitir que pedestres atravessem águas mais profundas, o que é mais difícil de construir e só pode ser construído em águas profundas.</RBB_DeepBridge_Stone.description>
+
+	<RBB_Boardwalk_Stone.label>Suporte de ponte</RBB_Boardwalk_Stone.label>
+
+	<RBB_Boardwalk_Stone.description>Embora pareça uma ponte, ela ainda está em terra. Use essa estrutura para fazer com que sua ponte ou píer tenha um ponto de suporte na beira da água.</RBB_Boardwalk_Stone.description>
+
+	<RBB_WatergazingSpot.label>Local para se observar as águas</RBB_WatergazingSpot.label>
+
+	<RBB_WatergazingSpot.description>Um ponto a partir do qual os peões podem apenas relaxar e observar a água. Coloque em uma ponte ou píer próximo à água.</RBB_WatergazingSpot.description>
+
+</LanguageData>

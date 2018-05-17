@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<RQ_CannotQuest>Não é possível verificar missões</RQ_CannotQuest>
+<RQ_QuestWith>Verifique as missões com {0}</RQ_QuestWith>
+<RQ_QuestOpportunity>Oportunidade de missão</RQ_QuestOpportunity>
+<RQ_QuestDialog>{0} Abordagens {1} E fala por um tempo. {1} Tem o seu próprio negócio para atender, Ele diz {0} Sobre algumas oportunidades que ele ouviu falar enquanto viajava pela área. Ele não tem tempo para atender a tudo, E ele se oferece para compartilhar uma oportunidade em troca de um pouco de prata ({2} total).\n\nQual deles vai {0} Pergunte sobre?</RQ_QuestDialog>
+<RQ_QuestDialogTwo>{0} Escreve um mapa irregular. Ele informa {1} Como e onde começar.</RQ_QuestDialogTwo>
+<RQ_LackFunds>Não é suficiente prata</RQ_LackFunds>
+<RQ_LackFundsMessage>Sua colônia não tem prata suficiente.</RQ_LackFundsMessage>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Aquaculture basin breeding -->
+
+	<SupplyMashgonEggs.label>Ovos de lagostas</SupplyMashgonEggs.label>
+	<SupplyMashgonEggs.description>fornece alguns ovos de lagosta para se reproduzir. Você só precisa fazer isso quando não há peixes, ou você precisa mudar as espécies de reprodução.</SupplyMashgonEggs.description>
+	<SupplyMashgonEggs.jobString>fornece ovos de lagosta.</SupplyMashgonEggs.jobString>
+
+	<FornecimentoBluebladeEggs.label>Ovos de peixe-espada</SupplyBluebladeEggs.label>
+	<SupplyBluebladeEggs.description>fornece alguns ovos de espadarte azul para se reproduzir. Você só precisa fazer isso quando não há peixes, ou você precisa mudar as espécies de reprodução.</SupplyBluebladeEggs.description>
+	<FornecimentoBluebladeEggs.jobString>é fornecido nos ovos do espadarte azul.</SupplyBluebladeEggs.jobString>
+
+	<SupplyTailteethEggs.label>Ovos de bacalhau</SupplyTailteethEggs.label>
+	<SupplyTailteethEggs.description>fornece alguns dentes traseiros de ovos de peixe para reprodução. Você só precisa fazer isso quando não há peixes, ou você precisa mudar as espécies de reprodução.</SupplyTailteethEggs.description>
+	<SupplyTailteethEggs.jobString>fornece dentes da cauda em ovos de peixe.</SupplyTailteethEggs.jobString>
+
+	<!-- Refeição na fogueira -->
+
+	<GrillFishCampfire.label>Peixe Grelhado</GrillFishCampfire.label>
+	<GrillFishCampfire.description>Grelhe um peixe para que ele possa ser comido, delicioso e crocante!</GrillFishCampfire.description>
+	<GrillFishCampfire.jobString>em peixe grelhado.</GrillFishCampfire.jobString>
+
+</LanguageData>

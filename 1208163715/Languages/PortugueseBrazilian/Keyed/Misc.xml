@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+   
+	<QRY_Quarry>Pedreira</QRY_Quarry>
+	<QRY_SettingsDepletionPercent>Porcentagem minerado</QRY_SettingsDepletionPercent>
+	<QRY_SettingsJunkChance>Possibilidade de lixo (incluindo pedaços.): &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsJunkChance>
+	<QRY_SettingsChunkChance>Lixo acaso: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsChunkChance>
+	<QRY_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; Não é possível minerar antes de construir uma pedreira.</QRY_DepletionLabel>
+	<QRY_TooltipLetter>Selecione se o levantamento de solo já foi comissionado. Caso contrário, uma pesquisa terrestre será preparada pela primeira vez antes de a pedreira ser criada.</QRY_TooltipLetter>
+	<QRY_TooltipJunkChance>Possibilidade de encontrar detritos. Se os detritos não forem limpos, um recurso aleatório será perdido.</QRY_TooltipJunkChance>
+	<QRY_TooltipChunkChance>Possibilidade de encontrar material utilizável. Se os detritos foi removido, há uma chance de encontrar pedaços utilizáveis, em vez de detritos. \n</QRY_TooltipChunkChance>
+	<QRY_LabelHaulMode>Modo de Transporte</QRY_LabelHaulMode>
+	<QRY_Haul>Use materiais degradados!</QRY_Haul>
+	<QRY_NotHaul>Ignorar material extraído!</QRY_NotHaul>
+	<QRY_LabelMineResources>recursos pedreira</QRY_LabelMineResources>
+	<QRY_DescriptionMineResources>Selecione a pedreira a ser usada para extração de recursos. Clique para mudar para o modo "Bloquear".</QRY_DescriptionMineResources>
+	<QRY_LabelMineBlocks>pedaços degradação</QRY_LabelMineBlocks>
+	<QRY_DescriptionMineBlocks>Marque a pedreira a ser usada para lascar. Clique para mudar para o modo "Raw".</QRY_DescriptionMineBlocks>
+	<QRY_ReportNotEnoughStone>A pedreira tem que ser construída em uma área que contém as matérias-primas não degradadas.</QRY_ReportNotEnoughStone>
+	<QRY_InspectQuarryPercent>progresso Quarry</QRY_InspectQuarryPercent>
+	<QRY_TextMote_LargeVein>Veia Grande!</QRY_TextMote_LargeVein>
+	<QRY_TextMote_MiningFailed>Falha ...</QRY_TextMote_MiningFailed>
+	<QRY_LetterSentQuery>Levantamento de solo enviado!</QRY_LetterSentQuery>
+	<QRY_LetterLabel>Piso de reivindicação</QRY_LetterLabel>
+	<QRY_LetterText>Se a pedreira estiver esgotada, você pode pedir aos colonos para encher a pedreira de terra para obter terras utilizáveis. Use o comando "Smooth Floor" para selecionar a área para recuperação.</QRY_LetterText>
+
+</LanguageData>

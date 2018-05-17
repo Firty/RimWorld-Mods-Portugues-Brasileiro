@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MendScratch.label>concertar o arranhão cirúrgico</MendScratch.label>
+
+	<MendScratch.description>Concertar o arranhão cirúrgico.</MendScratch.description>
+
+	<MendScratch.jobstring>Concertando o arranhão cirúrgico.</MendScratch.jobstring>
+
+	<MendScratch.successfullyremovedhediffmessage>{0} foi consertado com sucesso {1}'s arranhão.</MendScratch.successfullyremovedhediffmessage>
+
+	<MendBurn.label>enfaixar queimadura</MendBurn.label>
+
+	<MendBurn.description>Enfaixar queimadura.</MendBurn.description>
+
+	<MendBurn.jobstring>Enfaixando queimadura.</MendBurn.jobstring>
+
+	<MendBurn.successfullyremovedhediffmessage>{0} foi consertado com sucesso {1}'s queimadura.</MendBurn.successfullyremovedhediffmessage>
+
+	<MendShredded.label>mend shredded</MendShredded.label>
+
+	<MendShredded.description>Mend shredded.</MendShredded.description>
+
+	<MendShredded.jobstring>Mending shredded.</MendShredded.jobstring>
+
+	<MendShredded.successfullyremovedhediffmessage>{0} has successfully mended {1}'s shredded.</MendShredded.successfullyremovedhediffmessage>
+
+	<MendCut.label>mend cut</MendCut.label>
+
+	<MendCut.description>Mend cut.</MendCut.description>
+
+	<MendCut.jobstring>Mending cut.</MendCut.jobstring>
+
+	<MendCut.successfullyremovedhediffmessage>{0} has successfully mended {1}'s cut.</MendCut.successfullyremovedhediffmessage>
+
+	<MendCrush.label>mend crush</MendCrush.label>
+
+	<MendCrush.description>Mend crush.</MendCrush.description>
+
+	<MendCrush.jobstring>Mending crush.</MendCrush.jobstring>
+
+	<MendCrush.successfullyremovedhediffmessage>{0} has successfully mended {1}'s crush.</MendCrush.successfullyremovedhediffmessage>
+
+	<MendStab.label>mend stab</MendStab.label>
+
+	<MendStab.description>Mend stab.</MendStab.description>
+
+	<MendStab.jobstring>Mending stab.</MendStab.jobstring>
+
+	<MendStab.successfullyremovedhediffmessage>{0} has successfully mended {1}'s stab.</MendStab.successfullyremovedhediffmessage>
+
+	<MendBite.label>mend bite</MendBite.label>
+
+	<MendBite.description>Mend bite.</MendBite.description>
+
+	<MendBite.jobstring>Mending bite.</MendBite.jobstring>
+
+	<MendBite.successfullyremovedhediffmessage>{0} has successfully mended {1}'s bite.</MendBite.successfullyremovedhediffmessage>
+
+	<MendSurgicalCut.label>mend surgical cut</MendSurgicalCut.label>
+
+	<MendSurgicalCut.description>Mend surgical cut.</MendSurgicalCut.description>
+
+	<MendSurgicalCut.jobstring>Mending surgical cut.</MendSurgicalCut.jobstring>
+
+	<MendSurgicalCut.successfullyremovedhediffmessage>{0} has successfully mended {1}'s surgical cut.</MendSurgicalCut.successfullyremovedhediffmessage>
+
+	<MendFrostBite.label>mend frost bite</MendFrostBite.label>
+
+	<MendFrostBite.description>Mend frost bite.</MendFrostBite.description>
+
+	<MendFrostBite.jobstring>Mending frost bite.</MendFrostBite.jobstring>
+
+	<MendFrostBite.successfullyremovedhediffmessage>{0} has successfully mended {1}'s frost bite.</MendFrostBite.successfullyremovedhediffmessage>
+
+	<MendGunshot.label>mend gunshot</MendGunshot.label>
+
+	<MendGunshot.description>Mend gunshot.</MendGunshot.description>
+
+	<MendGunshot.jobstring>Mending gunshot.</MendGunshot.jobstring>
+
+	<MendGunshot.successfullyremovedhediffmessage>{0} has successfully mended {1}'s gunshot.</MendGunshot.successfullyremovedhediffmessage>
+
+</LanguageData>

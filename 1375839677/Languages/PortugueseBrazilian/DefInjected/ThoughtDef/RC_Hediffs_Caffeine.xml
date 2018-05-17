@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<CaffeineHigh.stages.0.label>animou-se</CaffeineHigh.stages.0.label>
+
+<CaffeineHigh.stages.0.description>A cafeína é o melhor estimulante!</CaffeineHigh.stages.0.description>
+
+<CaffeineHigh.stages.1.label>com fio</CaffeineHigh.stages.1.label>
+
+<CaffeineHigh.stages.1.description>Que correria!</CaffeineHigh.stages.1.description>
+
+<CaffeineHigh.stages.2.label>agitado</CaffeineHigh.stages.2.label>
+
+<CaffeineHigh.stages.2.description>Isso era muita cafeína. Minhas mãos estão começando a tremer.</CaffeineHigh.stages.2.description>
+
+<CaffeineHigh.stages.3.label>instável</CaffeineHigh.stages.3.label>
+
+<CaffeineHigh.stages.3.description>As palmas das mãos estão suadas, os joelhos fracos, os braços pesados, o espaguete da mãe!</CaffeineHigh.stages.3.description>
+
+<CaffeineWithdrawal.stages.1.label>retirada de cafeína</CaffeineWithdrawal.stages.1.label>
+
+<CaffeineWithdrawal.stages.1.description>Eu preciso de cafeína. Meus headhurts, é difícil se concentrar e todo mundo só precisa parar de fazer tanto barulho.</CaffeineWithdrawal.stages.1.description>
+
+</LanguageData>

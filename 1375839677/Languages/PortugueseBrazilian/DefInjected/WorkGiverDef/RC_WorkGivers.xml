@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DoBillsCannery.label>fábrica de conservas</DoBillsCannery.label>
+
+	<DoBillsCannery.verb>enlatamento</DoBillsCannery.verb>
+
+	<DoBillsCannery.gerund>enlatamento</DoBillsCannery.gerund>
+
+	<DoBillsQuernstone.label>moinho de alimentos crus</DoBillsQuernstone.label>
+
+	<DoBillsQuernstone.verb>moagem</DoBillsQuernstone.verb>
+
+	<DoBillsQuernstone.gerund>moagem</DoBillsQuernstone.gerund>
+
+</LanguageData>

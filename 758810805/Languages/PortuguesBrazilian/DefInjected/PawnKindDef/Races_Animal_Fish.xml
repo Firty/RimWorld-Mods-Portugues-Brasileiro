@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fishes that can only be fished -->
+
+	<PawnKindDefFishSduiggles.label>Lula</PawnKindDefFishSduiggles.label>
+	<PawnKindDefFishSduiggles.labelPlural>Lulas</PawnKindDefFishSduiggles.labelPlural>
+	<PawnKindDefFishSduiggles.lifeStages.0.label>Lula</PawnKindDefFishSduiggles.lifeStages.0.label>
+	<PawnKindDefFishSduiggles.lifeStages.0.labelPlural>Grupo do Lulas</PawnKindDefFishSduiggles.lifeStages.0.labelPlural>
+	<PawnKindDefFishSduiggles.lifeStages.0.labelMale>Lula masculina</PawnKindDefFishSduiggles.lifeStages.0.labelMale>
+	<PawnKindDefFishSduiggles.lifeStages.0.labelMalePlural>Lulas masculinas</PawnKindDefFishSduiggles.lifeStages.0.labelMalePlural>
+	<PawnKindDefFishSduiggles.lifeStages.0.labelFemale>Lula Feminina</PawnKindDefFishSduiggles.lifeStages.0.labelFemale>
+	<PawnKindDefFishSduiggles.lifeStages.0.labelFemalePlural>Lulas femininas</PawnKindDefFishSduiggles.lifeStages.0.labelFemalePlural>
+	<PawnKindDefFishSduiggles.lifeStages.1.label>Lula</PawnKindDefFishSduiggles.lifeStages.1.label>
+	<PawnKindDefFishSduiggles.lifeStages.1.labelPlural>Lulas</PawnKindDefFishSduiggles.lifeStages.1.labelPlural>
+	<PawnKindDefFishSduiggles.lifeStages.1.labelMale>Lula masculina</PawnKindDefFishSduiggles.lifeStages.1.labelMale>
+	<PawnKindDefFishSduiggles.lifeStages.1.labelMalePlural>lulas masculinas</PawnKindDefFishSduiggles.lifeStages.1.labelMalePlural>
+	<PawnKindDefFishSduiggles.lifeStages.1.labelFemale>Lula feminina</PawnKindDefFishSduiggles.lifeStages.1.labelFemale>
+	<PawnKindDefFishSduiggles.lifeStages.1.labelFemalePlural>Lulas femininas</PawnKindDefFishSduiggles.lifeStages.1.labelFemalePlural>
+	<PawnKindDefFishSduiggles.lifeStages.2.label>Lula</PawnKindDefFishSduiggles.lifeStages.2.label>
+	<PawnKindDefFishSduiggles.lifeStages.2.labelPlural>Lulas</PawnKindDefFishSduiggles.lifeStages.2.labelPlural>
+	<PawnKindDefFishSduiggles.lifeStages.2.labelMale>Lula masculina</PawnKindDefFishSduiggles.lifeStages.2.labelMale>
+	<PawnKindDefFishSduiggles.lifeStages.2.labelMalePlural>Lulas masculinas</PawnKindDefFishSduiggles.lifeStages.2.labelMalePlural>
+	<PawnKindDefFishSduiggles.lifeStages.2.labelFemale>Lula feminina</PawnKindDefFishSduiggles.lifeStages.2.labelFemale>
+	<PawnKindDefFishSduiggles.lifeStages.2.labelFemalePlural>Lulas femininas</PawnKindDefFishSduiggles.lifeStages.2.labelFemalePlural>
+	<PawnKindDefFishSduiggles.labelMale>Lula masculina</PawnKindDefFishSduiggles.labelMale>
+	<PawnKindDefFishSduiggles.labelMalePlural>Lulas masculinas</PawnKindDefFishSduiggles.labelMalePlural>
+	<PawnKindDefFishSduiggles.labelFemale>Lula feminina</PawnKindDefFishSduiggles.labelFemale>
+	<PawnKindDefFishSduiggles.labelFemalePlural>Lulas femininas</PawnKindDefFishSduiggles.labelFemalePlural>
+
+	<PawnKindDefFishSeasnake.label>Cobra D'água</PawnKindDefFishSeasnake.label>
+	<PawnKindDefFishSeasnake.labelPlural>Cobras D'água</PawnKindDefFishSeasnake.labelPlural>
+	<PawnKindDefFishSeasnake.lifeStages.0.label>Cobra D'água</PawnKindDefFishSeasnake.lifeStages.0.label>
+	<PawnKindDefFishSeasnake.lifeStages.0.labelPlural>Cobras D'água</PawnKindDefFishSeasnake.lifeStages.0.labelPlural>
+	<PawnKindDefFishSeasnake.lifeStages.0.labelMale>Cobra D'água masculina</PawnKindDefFishSeasnake.lifeStages.0.labelMale>
+	<PawnKindDefFishSeasnake.lifeStages.0.labelMalePlural>Cobras D'água masculinas</PawnKindDefFishSeasnake.lifeStages.0.labelMalePlural>
+	<PawnKindDefFishSeasnake.lifeStages.0.labelFemale>Cobra D'água Feminina</PawnKindDefFishSeasnake.lifeStages.0.labelFemale>
+	<PawnKindDefFishSeasnake.lifeStages.0.labelFemalePlural>Cobras D'água femininas</PawnKindDefFishSeasnake.lifeStages.0.labelFemalePlural>
+	<PawnKindDefFishSeasnake.lifeStages.1.label>Cobra D'água</PawnKindDefFishSeasnake.lifeStages.1.label>
+	<PawnKindDefFishSeasnake.lifeStages.1.labelPlural>Cobras D'água</PawnKindDefFishSeasnake.lifeStages.1.labelPlural>
+	<PawnKindDefFishSeasnake.lifeStages.1.labelMale>Cobra D'água masculina</PawnKindDefFishSeasnake.lifeStages.1.labelMale>
+	<PawnKindDefFishSeasnake.lifeStages.1.labelMalePlural>Cobras D'água masculinas</PawnKindDefFishSeasnake.lifeStages.1.labelMalePlural>
+	<PawnKindDefFishSeasnake.lifeStages.1.labelFemale>Cobra D'água Feminina</PawnKindDefFishSeasnake.lifeStages.1.labelFemale>
+	<PawnKindDefFishSeasnake.lifeStages.1.labelFemalePlural>Cobras D'água femininas</PawnKindDefFishSeasnake.lifeStages.1.labelFemalePlural>
+	<PawnKindDefFishSeasnake.lifeStages.2.label>Cobra D'água</PawnKindDefFishSeasnake.lifeStages.2.label>
+	<PawnKindDefFishSeasnake.lifeStages.2.labelPlural>Cobras D'água</PawnKindDefFishSeasnake.lifeStages.2.labelPlural>
+	<PawnKindDefFishSeasnake.lifeStages.2.labelMale>Cobra D'água masculina</PawnKindDefFishSeasnake.lifeStages.2.labelMale>
+	<PawnKindDefFishSeasnake.lifeStages.2.labelMalePlural>Cobras D'água masculinas</PawnKindDefFishSeasnake.lifeStages.2.labelMalePlural>
+	<PawnKindDefFishSeasnake.lifeStages.2.labelFemale>Cobra D'água Feminina</PawnKindDefFishSeasnake.lifeStages.2.LabFemale>
+	<PawnKindDefFishSeasnake.lifeStages.2.labelFemalePlural>Cobras D'água femininas</PawnKindDefFishSeasnake.lifeStages.2.labelFemalePlural>
+	<PawnKindDefFishSeasnake.labelMale>Cobra D'água masculina</PawnKindDefFishSeasnake.labelMale>
+	<PawnKindDefFishSeasnake.labelMalePlural>Cobras D'água masculinas</PawnKindDefFishSeasnake.labelMalePlural>
+	<PawnKindDefFishSeasnake.labelFemale>Cobra D'água Feminina</PawnKindDefFishSeasnake.labelFemale>
+	<PawnKindDefFishSeasnake.labelFemalePlural>Cobras D'água Femininas</PawnKindDefFishSeasnake.labelFemalePlural>
+
+	<!-- Fishes that can be bred -->
+
+	<PawnKindDefFishMashgon.label>Lagosta</PawnKindDefFishMashgon.label>
+	<PawnKindDefFishMashgon.labelPlural>Lagostas</PawnKindDefFishMashgon.labelPlural>
+	<PawnKindDefFishMashgon.lifeStages.0.label>Lagosta</PawnKindDefFishMashgon.lifeStages.0.label>
+	<PawnKindDefFishMashgon.lifeStages.0.labelPlural>Lagostas</PawnKindDefFishMashgon.lifeStages.0.labelPlural>
+	<PawnKindDefFishMashgon.lifeStages.0.labelMale>Lagosta masculina</PawnKindDefFishMashgon.lifeStages.0.labelMale>
+	<PawnKindDefFishMashgon.lifeStages.0.labelMalePlural>Lagostas masculinas</PawnKindDefFishMashgon.lifeStages.0.labelMalePlural>
+	<PawnKindDefFishMashgon.lifeStages.0.labelFemale>Lagosta feminina</PawnKindDefFishMashgon.lifeStages.0.labelFemale>
+	<PawnKindDefFishMashgon.lifeStages.0.labelFemalePlural>Lagostas Femininas</PawnKindDefFishMashgon.lifeStages.0.labelFemalePlural>
+	<PawnKindDefFishMashgon.lifeStages.1.label>Lagosta</PawnKindDefFishMashgon.lifeStages.1.label>
+	<PawnKindDefFishMashgon.lifeStages.1.labelPlural>Lagostas</PawnKindDefFishMashgon.lifeStages.1.labelPlural>
+	<PawnKindDefFishMashgon.lifeStages.1.labelMale>Lagosta masculina</PawnKindDefFishMashgon.lifeStages.1.labelMale>
+	<PawnKindDefFishMashgon.lifeStages.1.labelMalePlural>Lagostas masculina</PawnKindDefFishMashgon.lifeStages.1.labelMalePlural>
+	<PawnKindDefFishMashgon.lifeStages.1.labelFemale>Lagosta Feminina</PawnKindDefFishMashgon.lifeStages.1.labelFemale>
+	<PawnKindDefFishMashgon.lifeStages.1.labelFemalePlural>Lagostas Feminina</PawnKindDefFishMashgon.lifeStages.1.labelFemalePlural>
+	<PawnKindDefFishMashgon.lifeStages.2.label>Lagosta</PawnKindDefFishMashgon.lifeStages.2.label>
+	<PawnKindDefFishMashgon.lifeStages.2.labelPlural>Lagostas</PawnKindDefFishMashgon.lifeStages.2.labelPlural>
+	<PawnKindDefFishMashgon.lifeStages.2.labelMale>Lagosta masculina</PawnKindDefFishMashgon.lifeStages.2.labelMale>
+	<PawnKindDefFishMashgon.lifeStages.2.labelMalePlural>Lagostas masculina</PawnKindDefFishMashgon.lifeStages.2.labelMalePlural>
+	<PawnKindDefFishMashgon.lifeStages.2.labelFemale>Lagosta feminina</PawnKindDefFishMashgon.lifeStages.2.LabelFemale>
+	<PawnKindDefFishMashgon.lifeStages.2.labelFemalePlural>Lagostas femininas</PawnKindDefFishMashgon.lifeStages.2.labelFemalePlural>
+	<PawnKindDefFishMashgon.labelMale>Lagosta masculina</PawnKindDefFishMashgon.labelMale>
+	<PawnKindDefFishMashgon.labelMalePlural>Lagostas masculinas</PawnKindDefFishMashgon.labelMalePlural>
+	<PawnKindDefFishMashgon.labelFemale>Lagosta feminina</PawnKindDefFishMashgon.labelFemale>
+	<PawnKindDefFishMashgon.labelFemalePlural>Lagostas femininas</PawnKindDefFishMashgon.labelFemalePlural>
+
+	<PawnKindDefFishBlueblade.label>Peixe-espada</PawnKindDefFishBlueblade.label>
+	<PawnKindDefFishBlueblade.labelPlural>Peixes-espada</PawnKindDefFishBlueblade.labelPlural>
+	<PawnKindDefFishBlueblade.lifeStages.0.label>Peixe-espada</PawnKindDefFishBlueblade.lifeStages.0.label>
+	<PawnKindDefFishBlueblade.lifeStages.0.labelPlural>Peixes-espada</PawnKindDefFishBlueblade.lifeStages.0.labelPlural>
+	<PawnKindDefFishBlueblade.lifeStages.0.labelMale>Peixe-espada masculino</PawnKindDefFishBlueblade.lifeStages.0.labelMale>
+	<PawnKindDefFishBlueblade.lifeStages.0.labelMalePlural>Peixes-espada masculinos</PawnKindDefFishBlueblade.lifeStages.0.labelMalePlural>
+	<PawnKindDefFishBlueblade.lifeStages.0.labelFemale>Peixe-espada feminino</PawnKindDefFishBlueblade.lifeStages.0.labelFemale>
+	<PawnKindDefFishBlueblade.lifeStages.0.labelFemalePlural>Peixes-espada femininos</PawnKindDefFishBlueblade.lifeStages.0.labelFemalePlural>
+	<PawnKindDefFishBlueblade.lifeStages.1.label>Peixe-espada</PawnKindDefFishBlueblade.lifeStages.1.label>
+	<PawnKindDefFishBlueblade.lifeStages.1.labelPlural>Peixes-espada</PawnKindDefFishBlueblade.lifeStages.1.labelPlural>
+	<PawnKindDefFishBlueblade.lifeStages.1.labelMale>Peixe-espada masculino</PawnKindDefFishBlueblade.lifeStages.1.labelMale>
+	<PawnKindDefFishBlueblade.lifeStages.1.labelMalePlural>Peixes-espada masculinos</PawnKindDefFishBlueblade.lifeStages.1.labelMalePlural>
+	<PawnKindDefFishBlueblade.lifeStages.1.labelFemale>Peixe-espada feminino</PawnKindDefFishBlueblade.lifeStages.1.LabelFemale>
+	<PawnKindDefFishBlueblade.lifeStages.1.labelFemalePlural>Peixes-espada femininos</PawnKindDefFishBlueblade.lifeStages.1.labelFemalePlural>
+	<PawnKindDefFishBlueblade.lifeStages.2.label>Peixe-espada</PawnKindDefFishBlueblade.lifeStages.2.label>
+	<PawnKindDefFishBlueblade.lifeStages.2.labelPlural>Peixes-espada</PawnKindDefFishBlueblade.lifeStages.2.labelPlural>
+	<PawnKindDefFishBlueblade.lifeStages.2.labelMale>Peixe-espada masculino</PawnKindDefFishBlueblade.lifeStages.2.labelMale>
+	<PawnKindDefFishBlueblade.lifeStages.2.labelMalePlural>Peixes-espada masculinos</PawnKindDefFishBlueblade.lifeStages.2.labelMalePlural>
+	<PawnKindDefFishBlueblade.lifeStages.2.labelFemale>Peixe-espada feminino</PawnKindDefFishBlueblade.lifeStages.2.LabFemale>
+	<PawnKindDefFishBlueblade.lifeStages.2.labelFemalePlural>Peixes-espada femininos</PawnKindDefFishBlueblade.lifeStages.2.labelFemalePlural>
+	<PawnKindDefFishBlueblade.labelMale>Peixe-espada masculino</PawnKindDefFishBlueblade.labelMale>
+	<PawnKindDefFishBlueblade.labelMalePlural>Peixes-espada masculinos</PawnKindDefFishBlueblade.labelMalePlural>
+	<PawnKindDefFishBlueblade.labelFemale>Peixe-espada feminino</PawnKindDefFishBlueblade.labelFemale>
+	<PawnKindDefFishBlueblade.labelFemalePlural>Peixes-espada femininos</PawnKindDefFishBlueblade.labelFemalePlural>
+
+	<PawnKindDefFishTailteeth.label>Bacalhau</PawnKindDefFishTailteeth.label>
+	<PawnKindDefFishTailteeth.labelPlural>Bacalhau</PawnKindDefFishTailteeth.labelPlural>
+	<PawnKindDefFishTailteeth.lifeStages.0.label>Bacalhau</PawnKindDefFishTailteeth.lifeStages.0.label>
+	<PawnKindDefFishTailteeth.lifeStages.0.labelPlural>Bacalhau</PawnKindDefFishTailteeth.lifeStages.0.labelPlural>
+	<PawnKindDefFishTailteeth.lifeStages.0.labelMale>Macho de bacalhau</PawnKindDefFishTailteeth.lifeStages.0.labelMale>
+	<PawnKindDefFishTailteeth.lifeStages.0.labelMalePlural>Machos de bacalhau</PawnKindDefFishTailteeth.lifeStages.0.labelMalePlural>
+	<PawnKindDefFishTailteeth.lifeStages.0.labelFemale>female Bacalhau tail</PawnKindDefFishTailteeth.lifeStages.0.labelFemale>
+	<PawnKindDefFishTailteeth.lifeStages.0.labelFemalePlural>Fishtail Fish</PawnKindDefFishTailteeth.lifeStages.0.labelFemalePlural>
+	<PawnKindDefFishTailteeth.lifeStages.1.label>Bacalhau</PawnKindDefFishTailteeth.lifeStages.1.label>
+	<PawnKindDefFishTailteeth.lifeStages.1.labelPlural>Bacalhau</PawnKindDefFishTailteeth.lifeStages.1.labelPlural>
+	<PawnKindDefFishTailteeth.lifeStages.1.labelMale>Bacalhau masculinass da cauda</PawnKindDefFishTailteeth.lifeStages.1.labelMale>
+	<PawnKindDefFishTailteeth.lifeStages.1.labelMalePlural>masculinas arrastando peixes dente</PawnKindDefFishTailteeth.lifeStages.1.labelMalePlural>
+	<PawnKindDefFishTailteeth.lifeStages.1.labelFemale>Peixe com dentes traseiros fêmea</PawnKindDefFishTailteeth.lifeStages.1.LabelFemale>
+	<PawnKindDefFishTailteeth.lifeStages.1.labelFemalePlural>Fishtail Fish</PawnKindDefFishTailteeth.lifeStages.1.labelFemalePlural>
+	<PawnKindDefFishTailteeth.lifeStages.2.label>Bacalhau</PawnKindDefFishTailteeth.lifeStages.2.label>
+	<PawnKindDefFishTailteeth.lifeStages.2.labelPlural>Bacalhau</PawnKindDefFishTailteeth.lifeStages.2.labelPlural>
+	<PawnKindDefFishTailteeth.lifeStages.2.labelMale>Bacalhau da cauda do masculinas</PawnKindDefFishTailteeth.lifeStages.2.labelMale>
+	<PawnKindDefFishTailteeth.lifeStages.2.labelMalePlural>masculinas arrastando peixes dente</PawnKindDefFishTailteeth.lifeStages.2.labelMalePlural>
+	<PawnKindDefFishTailteeth.lifeStages.2.labelFemale>female Bacalhau tail</PawnKindDefFishTailteeth.lifeStages.2.labelFemale>
+	<PawnKindDefFishTailteeth.lifeStages.2.labelFemalePlural>Peixe de rabo de peixe</PawnKindDefFishTailteeth.lifeStages.2.LabelFemalePlural>
+	<PawnKindDefFishTailteeth.labelMale>Peixe com dentes traseiros masculinass</PawnKindDefFishTailteeth.labelMale>
+	<PawnKindDefFishTailteeth.labelMalePlural>Peixe com dentes traseiros masculinas</PawnKindDefFishTailteeth.labelMalePlural>
+	<PawnKindDefFishTailteeth.labelFemale>Peixe com dentes traseiros fêmea</PawnKindDefFishTailteeth.labelFemale>
+	<PawnKindDefFishTailteeth.LabelFemalePlural>Fishtail Fish</PawnKindDefFishTailteeth.labelFemalePlural>
+
+</LanguageData>

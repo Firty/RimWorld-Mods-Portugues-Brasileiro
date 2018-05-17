@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Zope.label>zope</Zope.label>
+
+	<Zope.description>Zope, um fármaco base para zopioides, é um látex semelhante a goma, seco e processado, a partir da planta de flor de sonho. Fumados ou usados para fazer drogas mais fortes.</Zope.description>
+
+	<Zope.ingestible.ingestcommandstring>Fumar {0}</Zope.ingestible.ingestcommandstring>
+
+	<Zope.ingestible.ingestreportstring>Fumando {0}.</Zope.ingestible.ingestreportstring>
+
+</LanguageData>

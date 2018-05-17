@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<Coffee.label> café </Coffee.label>
+
+<Coffee.description> Uma bebida aromática feita a partir de grãos de café que dará um impulso à sua manhã. </Coffee.description>
+
+<Coffee.ingestible.ingestcommandstring> Beber {0} </Coffee.ingestible.ingestcommandstring>
+
+<Coffee.ingestible.ingestreportstring> Beber {0}. </Coffee.ingestible.ingestreportstring>
+
+<VoltEnergyDrink.label> bebida energética </VoltEnergyDrink.label>
+
+<VoltEnergyDrink.description> Uma lata de energético, um deleite açucarado que vai dar um pontapé nos seus passos! </VoltEnergyDrink.description>
+
+<VoltEnergyDrink.ingestible.ingestcommandstring> Beber {0} </VoltEnergyDrink.ingestible.ingestcommandstring>
+
+<VoltEnergyDrink.ingestible.ingestreportstring> Beber {0}. </VoltEnergyDrink.ingestible.ingestreportstring>
+
+<MealJuice.label> suco de fruta </MealJuice.label>
+
+<MealJuice.description> Uma bebida saborosa feita a partir de espremer uma ou mais frutas. Refrescante, embora não seja particularmente preenchido. </MealJuice.description>
+
+<MealPastry.label> pastelaria </MealPastry.label>
+
+<MealPastry.description> Um doce, delicioso e açucarado doce pastelaria muitas vezes favorecido pela aplicação da lei. </MealPastry.description>
+
+<MealCandy.label> doces </MealCandy.label>
+
+<MealCandy.description> Uma coleção de doces duros e macios feitos de adoçantes. Geralmente comido pelo punhado pelo guloso. </MealCandy.description>
+
+<DoubleshotEspresso.label> café expresso </DoubleshotEspresso.label>
+
+<DoubleshotEspresso.description> Uma pequena dose concentrada de café feita com um processo único de fermentação. </DoubleshotEspresso.description>
+
+<DoubleshotEspresso.ingestible.ingestcommandstring> Beber {0} </DoubleshotEspresso.ingestible.ingestcommandstring>
+
+<DoubleshotEspresso.ingestible.ingestreportstring> Beber {0}. </DoubleshotEspresso.ingestible.ingestreportstring>
+</LanguageData>

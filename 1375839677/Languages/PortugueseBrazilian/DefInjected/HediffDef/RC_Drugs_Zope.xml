@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ZopioidAddiction.label>Víciado em zopioid</ZopioidAddiction.label>
+
+	<ZopioidAddiction.stages.1.label>Abstinencia de zopioid</ZopioidAddiction.stages.1.label>
+
+	<ZopioidTolerance.label>Tolerencia a zopioid</ZopioidTolerance.label>
+
+	<ZopeHigh.label>Viajando no zope</ZopeHigh.label>
+
+	<ZopeHigh.stages.0.label>Zope baixo</ZopeHigh.stages.0.label>
+
+	<ZopeHigh.stages.1.label>Zope alto</ZopeHigh.stages.1.label>
+
+	<ZopeHigh.stages.2.label>Dopado com zope</ZopeHigh.stages.2.label>
+
+</LanguageData>

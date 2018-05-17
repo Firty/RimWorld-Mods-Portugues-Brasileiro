@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GuestAngered.stages.0.label>irritado por ver um recrutamento</GuestAngered.stages.0.label>
+
+	<GuestAngered.stages.0.labelsocial>me enfureceu ver um recrutando</GuestAngered.stages.0.labelsocial>
+
+	<GuestAngered.stages.0.description>Esses caras estão tentando roubar nossos membros!</GuestAngered.stages.0.description>
+
+	<GuestOffendedRelationship.stages.0.label>insultado pelo colono</GuestOffendedRelationship.stages.0.label>
+
+	<GuestOffendedRelationship.stages.0.labelsocial>me insultou</GuestOffendedRelationship.stages.0.labelsocial>
+
+	<GuestOffendedRelationship.stages.0.description>Esses caras são perdedores!</GuestOffendedRelationship.stages.0.description>
+
+	<GuestPleasedRelationship.stages.0.label>encantado pelo colono</GuestPleasedRelationship.stages.0.label>
+
+	<GuestPleasedRelationship.stages.0.labelsocial>me encantou</GuestPleasedRelationship.stages.0.labelsocial>
+
+	<GuestPleasedRelationship.stages.0.description>Essas pessoas são legais!</GuestPleasedRelationship.stages.0.description>
+
+	<EndorsedByRecruiter.stages.0.label>endossado pelo recrutador</EndorsedByRecruiter.stages.0.label>
+
+	<EndorsedByRecruiter.stages.0.labelsocial>foi endossado para mim</EndorsedByRecruiter.stages.0.labelsocial>
+
+	<EndorsedByRecruiter.stages.0.description>Essa pessoa foi recomendada para mim.</EndorsedByRecruiter.stages.0.description>
+
+	<GuestDismissiveAttitude.stages.0.label>cansado de falar</GuestDismissiveAttitude.stages.0.label>
+
+	<GuestDismissiveAttitude.stages.0.description>Chega de falar por agora.</GuestDismissiveAttitude.stages.0.description>
+
+</LanguageData>

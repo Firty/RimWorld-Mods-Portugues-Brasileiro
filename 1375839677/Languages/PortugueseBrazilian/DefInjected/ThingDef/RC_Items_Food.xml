@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<Flour.label> farinha </Flour.label>
+
+<Flour.description> Farinha de moer qualquer tipo de grão. Usado em panificação e culinária, é o alimento básico de muitas sociedades, inclusive aqui na Orla. </Flour.description>
+
+<HeartyStew.label> guisado saudável </HeartyStew.label>
+
+<HeartyStew.description> Um guisado de recheio feito de carne e ingredientes vegetarianos. Saboroso! </HeartyStew.description>
+
+<MealExtravagant.label> refeição extravagante </MealExtravagant.label>
+
+<MealExtravagant.description> Uma obra-prima das artes culinárias, esta refeição nutre o corpo, a mente e a alma. </MealExtravagant.description>
+
+<WeakStew.label> guisado fraco </WeakStew.label>
+
+<WeakStew.description> Um guisado de degustação simples e sem graça feito de alguns ingredientes. </WeakStew.description>
+
+</LanguageData>
