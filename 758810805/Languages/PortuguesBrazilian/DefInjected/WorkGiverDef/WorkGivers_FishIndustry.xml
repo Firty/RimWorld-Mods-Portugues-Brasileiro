@@ -1,18 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--[Core] <HunterHunt.label>打獵</HunterHunt.label>-->
-  <!--[Core] <HunterHunt.verb>獵捕</HunterHunt.verb>-->
-  <!--[Core] <HunterHunt.gerund>狩獵</HunterHunt.gerund>-->
-
-  <WorkGiver_HarvestAquacultureBasinProduction.verb> Pesca </WorkGiver_HarvestAquacultureBasinProduction.verb>
-  <WorkGiver_HarvestAquacultureBasinProduction.gerund> Pesca </WorkGiver_HarvestAquacultureBasinProduction.gerund>
-  <WorkGiver_DoBillsAtAquacultureBasin.verb> Cultivo </WorkGiver_DoBillsAtAquacultureBasin.verb>
-  <WorkGiver_DoBillsAtAquacultureBasin.gerund> Criação </WorkGiver_DoBillsAtAquacultureBasin.gerund>
-  <FillAquacultureHopper.verb> Preencher </FillAquacultureHopper.verb>
-  <FillAquacultureHopper.gerund> Preencher </FillAquacultureHopper.gerund>
-  <WorkGiver_FishAtFishingPier.verb> Pescar </WorkGiver_FishAtFishingPier.verb>
-  <WorkGiver_FishAtFishingPier.gerund> Pescar </WorkGiver_FishAtFishingPier.gerund>
-
+  <WorkGiver_HarvestAquacultureBasinProduction.verb>Pesca</WorkGiver_HarvestAquacultureBasinProduction.verb>
+  <WorkGiver_HarvestAquacultureBasinProduction.gerund>Pesca</WorkGiver_HarvestAquacultureBasinProduction.gerund>
+  <WorkGiver_DoBillsAtAquacultureBasin.verb>Cultivo</WorkGiver_DoBillsAtAquacultureBasin.verb>
+  <WorkGiver_DoBillsAtAquacultureBasin.gerund>Criação</WorkGiver_DoBillsAtAquacultureBasin.gerund>
+  <FillAquacultureHopper.verb>Preencher</FillAquacultureHopper.verb>
+  <FillAquacultureHopper.gerund>Preencher</FillAquacultureHopper.gerund>
+  <WorkGiver_FishAtFishingPier.verb>Pescar</WorkGiver_FishAtFishingPier.verb>
+  <WorkGiver_FishAtFishingPier.gerund>Pescar</WorkGiver_FishAtFishingPier.gerund>
 
 </LanguageData>
