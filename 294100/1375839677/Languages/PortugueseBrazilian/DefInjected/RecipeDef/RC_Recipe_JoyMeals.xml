@@ -49,4 +49,16 @@
 
 <ProcessCoffee.jobstring>Preparando café.</ProcessCoffee.jobstring>
 
+	<BrewTeaBulk.label>fazer chá verde a granel</BrewTeaBulk.label>
+
+	<BrewTeaBulk.description>Transforma folhas de chá em chá verde. Receita em massa faz 5x</BrewTeaBulk.description>
+
+	<BrewTeaBulk.jobstring>Fazendo chá verde a granel.</BrewTeaBulk.jobstring>
+
+	<BrewTea.label>fazer chá verde</BrewTea.label>
+
+	<BrewTea.description>Transforma folhas de chá em chá verde.</BrewTea.description>
+
+	<BrewTea.jobstring>Fazendo chá verde.</BrewTea.jobstring>
+
 </LanguageData>
