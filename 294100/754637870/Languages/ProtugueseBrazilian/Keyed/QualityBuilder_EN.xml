@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<QualityBuilder>Qualidade de construção</QualityBuilder>
+	<QualityBuilderCommand.Label>Qualidade de construção</QualityBuilderCommand.Label>
+
+	<QualityBuilderOn.Label>Definir Qualidade de construção</QualityBuilderOn.Label>
+	<QualityBuilderOn.Desc>Define apenas o melhor construtor para construir moveis de qualidade.</QualityBuilderOn.Desc>
+	<QualityBuilder.Already></QualityBuilder.Already>
+
+	<QualityBuilderOff.Label>Não definir Qualidade de construção</QualityBuilderOff.Label>
+	<QualityBuilderOff.Desc>Ignora o nivel de habilidade dos construtores, qualquer um vai construir.</QualityBuilderOff.Desc>
+	<QualityBuilder.Nothing></QualityBuilder.Nothing>
+
+</LanguageData>

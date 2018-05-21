@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FAFBurnedWoodTile.label>piso de madeira compensada queimado</FAFBurnedWoodTile.label>
+
+	<FAFBurnedWoodTile.description>Um piso de madeira compensada que esta queimado</FAFBurnedWoodTile.description>
+
+	<FAFWoodTile.label>Painéis de madeira compensada</FAFWoodTile.label>
+
+	<FAFWoodTile.description>Folhas de compensado comprimido. Uma ótima opção para pisos temporários, baratos para construir.</FAFWoodTile.description>
+
+	<FAFTechTile.label>Painéis de sensores</FAFTechTile.label>
+
+	<FAFTechTile.description>Esses painéis de piso incrivelmente avançados estão realmente em comunicação ativa um com o outro. Utilizando sensores embutidos e uma rede integrada de alta velocidade, esses ladrilhos "inteligentes" podem detectar e sutilmente reagir a ser pisados para sempre fornecer uma superfície ideal para locomoção rápida.</FAFTechTile.description>
+
+	<FAFMetalTileA.label>Grade de aço</FAFMetalTileA.label>
+
+	<FAFMetalTileA.description>Este revestimento de aço não é apenas durável, mas é fácil de limpar. A maioria da sujeira cai através de sua superfície perfurada!</FAFMetalTileA.description>
+
+	<FAFMetalTileB.label>Painéis de metal</FAFMetalTileB.label>
+
+	<FAFMetalTileB.description>O design destes painéis de aço foi baseado em um estilo popular de chapeamento de revestimento interno de passagem estelar.</FAFMetalTileB.description>
+
+</LanguageData>

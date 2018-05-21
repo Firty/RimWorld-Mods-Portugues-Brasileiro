@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ChainFenceGate.label>Portão da cerca de arame farpado</ChainFenceGate.label>
+
+	<ChainFenceGate.description>Um portão de cerca de aço resistente feito de fio de aço entrelaçado.</ChainFenceGate.description>
+
+	<ChainFenceGateB.label>Portão da cerca de arame farpado</ChainFenceGateB.label>
+
+	<ChainFenceGateB.description>Um portão de cerca de aço resistente feito de fio de aço entrelaçado.</ChainFenceGateB.description>
+
+	<WoodFenceGateB.label>Portão de madeira</WoodFenceGateB.label>
+
+	<WoodFenceGateB.description>Um bom portão de madeira à moda antiga.</WoodFenceGateB.description>
+
+	<TechFenceGate.label>Portão de alta segurança</TechFenceGate.label>
+
+	<TechFenceGate.description>Um portão de metal de alta segurança.</TechFenceGate.description>
+
+	<ChainFence.label>Cerca de arame</ChainFence.label>
+
+	<ChainFence.description>Uma cerca de aço resistente feita de fio de aço entrelaçado.</ChainFence.description>
+
+	<WoodFenceGate.label>Portão de madeira</WoodFenceGate.label>
+
+	<WoodFenceGate.description>Um bom e antigo portão de cerca de madeira.</WoodFenceGate.description>
+
+	<TechFenceGateB.label>Portão de alta segurança</TechFenceGateB.label>
+
+	<TechFenceGateB.description>Um portão de metal de alta segurança.</TechFenceGateB.description>
+
+	<TechFence.label>Cerca de alta segurança</TechFence.label>
+
+	<TechFence.description>Uma alta cerca de metal coberta com arame farpado.</TechFence.description>
+
+	<WoodFence.label>Cerca de madeira</WoodFence.label>
+
+	<WoodFence.description>Uma boa e antiga cerca de madeira.</WoodFence.description>
+
+	<SecurityBarrier.label>Barreira de segurança</SecurityBarrier.label>
+
+	<SecurityBarrier.description>Uma barreira de alta segurança, projetada para casos de emergência envolvendo combates.</SecurityBarrier.description>
+
+</LanguageData>

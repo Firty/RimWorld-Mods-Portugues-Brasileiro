@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<HaulDeliverResourcesToFrames.label>transportar recursos para quadros</HaulDeliverResourcesToFrames.label>
+	<HaulDeliverResourcesToFrames.verb>transportar recursos para</HaulDeliverResourcesToFrames.verb>
+	<HaulDeliverResourcesToFrames.gerund>transportando recursos para</HaulDeliverResourcesToFrames.gerund>
+
+	<HaulDeliverResourcesToBlueprints.label>transportar recursos para projetos</HaulDeliverResourcesToBlueprints.label>
+	<HaulDeliverResourcesToBlueprints.verb>transportar recursos para</HaulDeliverResourcesToBlueprints.verb>
+	<HaulDeliverResourcesToBlueprints.gerund>transportando recursos para</HaulDeliverResourcesToBlueprints.gerund>
+
+</LanguageData>

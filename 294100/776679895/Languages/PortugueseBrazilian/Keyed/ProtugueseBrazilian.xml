@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Mod Settings -->
+
+	<HMTB_EnableMod>Use os transportadores para construções</HMTB_EnableMod>
+
+	<HMTB_OpportunisticMode>Raio de pesquisa para blueprints/frames</HMTB_OpportunisticMode>
+
+	<!-- Tooltips -->
+
+	<HMTB_Tooltip_EnableMod>Qualquer colono que esteja disposto a transportar também entregará materiais para trabalhos de construção.</HMTB_Tooltip_EnableMod>
+
+	<HMTB_Tooltip_OpportunisticMode>Até que distância os transportadores devem procurar trabalhos de construção. \n\nSem restrição: em qualquer lugar no mapa. \nLimitado: dentro de 15 blocos. \nMédio: dentro de 45 blocos. \nLonge: dentro de 100 blocos.</HMTB_Tooltip_OpportunisticMode>
+
+	<!-- Enum values -->
+
+	<HMTB_Unrestricted>Sem restrição</HMTB_Unrestricted>
+	<HMTB_Close>Limitado</HMTB_Close>
+	<HMTB_Medium>Médio</HMTB_Medium>
+	<HMTB_Long>Longe</HMTB_Long>
+
+</LanguageData>
