@@ -5,8 +5,6 @@
   <WorkGiver_HarvestAquacultureBasinProduction.gerund>Pesca</WorkGiver_HarvestAquacultureBasinProduction.gerund>
   <WorkGiver_DoBillsAtAquacultureBasin.verb>Cultivo</WorkGiver_DoBillsAtAquacultureBasin.verb>
   <WorkGiver_DoBillsAtAquacultureBasin.gerund>Criação</WorkGiver_DoBillsAtAquacultureBasin.gerund>
-  <FillAquacultureHopper.verb>Preencher</FillAquacultureHopper.verb>
-  <FillAquacultureHopper.gerund>Preencher</FillAquacultureHopper.gerund>
   <WorkGiver_FishAtFishingPier.verb>Pescar</WorkGiver_FishAtFishingPier.verb>
   <WorkGiver_FishAtFishingPier.gerund>Pescar</WorkGiver_FishAtFishingPier.gerund>
 
