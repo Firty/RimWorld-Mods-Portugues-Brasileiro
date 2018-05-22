@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- Fishes that can only be fished--->
+	<!-- Fishes that can only be fished -->
 
 	<ThingDefFishSduiggles.label>Lula</ThingDefFishSduiggles.label>
 	<ThingDefFishSduiggles.description>Normalmente vive em pântanos e águas rasas. Essa lula é muito inteligente e boa em disfarçar. Quem gostaria de capturá-lo? Esse monstro!</ThingDefFishSduiggles.description>
-	<!-- Leather Amount: 0--->
+	<!-- Leather Amount: 0 -->
 	<ThingDefFishSduiggles_Meat.label>Tentáculos de lula</ThingDefFishSduiggles_Meat.label>
 	<ThingDefFishSduiggles_Meat.description>Tentáculo de lula.</ThingDefFishSduiggles_Meat.description>
 	<ThingDefFishSduiggles_Corpse.label>Corpo de lula</ThingDefFishSduiggles_Corpse.label>
 	<ThingDefFishSduiggles_Corpse.description>Corpo de lula.</ThingDefFishSduiggles_Corpse.description>
 
 
-	<!-- Fishes that can only be fished--->
+	<!-- Fishes that can only be fished -->
 
 	<ThingDefFishSeasnake.label>Cobra D'água</ThingDefFishSeasnake.label>
 	<ThingDefFishSeasnake.description>é muitas vezes confundido com um primo dentes cauda animal selvagem, noite sem lua neste cobra não é agressivo.</ThingDefFishSeasnake.description>
-	<!-- Quantidade de couro: 0-->
+	<!-- Quantidade de couro: 0 -->
 	<ThingDefFishSeasnake_Meat.label>Carne de Cobra D'água</ThingDefFishSeasnake_Meat.label>
 	<ThingDefFishSeasnake_Meat.description>Carne de Cobra D'água</ThingDefFishSeasnake_Meat.description>
 	<ThingDefFishSeasnake_Corpse.label>Corpo de Cobra D'água</ThingDefFishSeasnake_Corpse.label>
 	<ThingDefFishSeasnake_Corpse.description>Corpo de Cobra D'água</ThingDefFishSeasnake_Corpse.description>
 
 
-	<!-- Peixes que podem ser criados-->
+	<!-- Peixes que podem ser criados -->
 
 	<ThingDefFishMashgon.label>Lagosta</ThingDefFishMashgon.label>
 	<ThingDefFishMashgon.description>geralmente vive em pântanos e zonas úmidas. Seu nome vem de indígenas locais, chamando-o de "lagosta do pântano". A propagação é rápida e fácil de pegar, uma boa fonte de proteína.</ThingDefFishMashgon.description>
@@ -34,18 +34,18 @@
 	<ThingDefFishMashgon_Corpse.description>Corpo de Lagosta</ThingDefFishMashgon_Corpse.description>
 
 
-	<!-- Peixes que podem ser criados-->
+	<!-- Peixes que podem ser criados -->
 
 	<ThingDefFishBlueblade.label>Peixe-espada</ThingDefFishBlueblade.label>
 	<ThingDefFishBlueblade.description>Nome científico "barra de refeição", uma espécie que é comum em águas rasas. Por causa de suas costas azuis divergentes ao nadar na água, o pequeno corpo de peixe se assemelha a uma faca e tem uma faca azul. Pode viver em lagoas azuis quentes ou em águas azuis geladas.</ThingDefFishBlueblade.description>
-	<!-- Quantidade de couro: 0-->
+	<!-- Quantidade de couro: 0 -->
 	<ThingDefFishBlueblade_Meat.label>Espadarte Azul</ThingDefFishBlueblade_Meat.label>
 	<ThingDefFishBlueblade_Meat.description>Carne de Faca Azul</ThingDefFishBlueblade_Meat.description>
 	<ThingDefFishBlueblade_Corpse.label>Blue Sword Carcass</ThingDefFishBlueblade_Corpse.label>
 	<ThingDefFishBlueblade_Corpse.description>Blue Sword Carcass</ThingDefFishBlueblade_Corpse.description>
 
 
-	<!-- Peixes que podem ser criados-->
+	<!-- Peixes que podem ser criados -->
 
 	<ThingDefFishTailteeth.label>Tailfish Fish</ThingDefFishTailteeth.label>
 	<ThingDefFishTailteeth.description>Este carnívoro feroz recebe o nome da sua sinistra estratégia de predação. Lentamente se aproximando do fundo da água está bebendo a presa, usando sua cauda grande para atrair a presa em águas profundas. O último a cumprimentá-lo são os dentes desta criatura terrível.</ThingDefFishTailteeth.description>
